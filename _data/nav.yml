@@ -1,0 +1,7 @@
+main:
+    # - { url: '/', text: 'Blog' }
+    - { url: '/about', text: 'About' }
+    - { url: '/artists', text: 'Artists' }
+    - { url: '/events', text: 'Events' }
+    - { url: 'https://www.google.com/', text: 'Archive' }
+    - { url: 'https://www.google.com/', text: 'Submit Art' }
