@@ -1,87 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ERR Artist Collective</title>
-    <description></description>
-    <link>http://www.errartistcollective.com/</link>
-    <atom:link href="http://www.errartistcollective.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Aug 2016 20:40:32 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Aug 2016 20:40:32 -0500</lastBuildDate>
+    <title>Awesome Title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>https://y7kim.github.io/</link>
+    <atom:link href="https://y7kim.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 31 Aug 2016 23:24:48 -0500</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2016 23:24:48 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>My First Video Post on Jekyll</title>
-        <description>&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
-
+        <title>Dreams</title>
+        <description>
 </description>
-        <pubDate>Mon, 31 Aug 2015 08:26:34 -0500</pubDate>
-        <link>http://www.errartistcollective.com/my-first-video-post.html</link>
-        <guid isPermaLink="true">http://www.errartistcollective.com/my-first-video-post.html</guid>
-        
-        <category>mars</category>
-        
-        <category>videos</category>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
+        <link>https://y7kim.github.io/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/web%20development/2014/07/18/project-1/</guid>
         
         
-        <category>blog</category>
-        
-        <category>development</category>
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>My First Post on Jekyll</title>
-        <description>&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
-
+        <title>Escape</title>
+        <description>
 </description>
-        <pubDate>Mon, 31 Aug 2015 08:26:34 -0500</pubDate>
-        <link>http://www.errartistcollective.com/example-post.html</link>
-        <guid isPermaLink="true">http://www.errartistcollective.com/example-post.html</guid>
-        
-        <category>cats</category>
-        
-        <category>dogs</category>
-        
-        <category>code</category>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0500</pubDate>
+        <link>https://y7kim.github.io/web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/web%20development/2014/07/17/project-2/</guid>
         
         
-        <category>blog</category>
-        
-        <category>development</category>
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>My First Normal Post on Jekyll</title>
-        <description>&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
-
+        <title>Golden</title>
+        <description>
 </description>
-        <pubDate>Sat, 15 Aug 2015 08:26:34 -0500</pubDate>
-        <link>http://www.errartistcollective.com/my-first-normal-post.html</link>
-        <guid isPermaLink="true">http://www.errartistcollective.com/my-first-normal-post.html</guid>
-        
-        <category>html</category>
-        
-        <category>css</category>
-        
-        <category>javascript</category>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0500</pubDate>
+        <link>https://y7kim.github.io/web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/web%20development/2014/07/16/project-3/</guid>
         
         
-        <category>blog</category>
+        <category>Web Development</category>
         
-        <category>development</category>
+      </item>
+    
+      <item>
+        <title>Treehouse</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>https://y7kim.github.io/web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/web%20development/2014/07/15/project-4/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Round Icons</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>https://y7kim.github.io/web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/web%20development/2014/07/15/project-6/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Startup Framework</title>
+        <description>
+</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate>
+        <link>https://y7kim.github.io/web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/web%20development/2014/07/14/project-5/</guid>
+        
+        
+        <category>Web Development</category>
         
       </item>
     
