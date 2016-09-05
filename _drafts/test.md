@@ -1,5 +1,5 @@
 ---
 title: test
-date: '2016-08-31 23:47:14'
+date: '2016-08-31 00:00:00'
 layout: default
 ---
