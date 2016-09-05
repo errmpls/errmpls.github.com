@@ -8,8 +8,8 @@
 	<event>
 		<id></id>
 		<name>event name</name>
-		<startdate>2016-9-15</startdate>
-		<enddate>2016-9-17</enddate>
+		<startdate>2016-09-15T00:00:00+00:00</startdate>
+		<enddate>2016-09-17T00:00:00+00:00</enddate>
 		<starttime>12:00</starttime>
 		<endtime>2:00</endtime>
 		<color>#ffb128</color>
