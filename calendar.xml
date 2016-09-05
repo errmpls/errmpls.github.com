@@ -7,9 +7,9 @@
 
 	<event>
 		<id></id>
-		<name>birthday</name>
-		<startdate>2016-09-21T20:00:00+00:00</startdate>
-		<enddate>2016-09-21T23:00:00+00:00</enddate>
+		<name>christmas</name>
+		<startdate>2016-09-28T20:00:00+00:00</startdate>
+		<enddate>2016-09-28T23:00:00+00:00</enddate>
 		<starttime>12:00</starttime>
 		<endtime>2:00</endtime>
 		<color>#ffb128</color>
