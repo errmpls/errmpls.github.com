@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!-- <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <atom:link href="http://www.errartistcollective.com/calendar.xml" rel="self" type="application/rss+xml" /> -->
+
+<monthly>
+
+
+	<event>
+		<id></id>
+		<name>event name</name>
+		<startdate>2016-9-15</startdate>
+		<enddate>2016-9-17</enddate>
+		<starttime>12:00</starttime>
+		<endtime>2:00</endtime>
+		<color>#ffb128</color>
+    <info>blahblahblah eric has a nice beard</info>
+		<url>https://www.google.com/</url>
+	</event>
+
+
+</monthly>
