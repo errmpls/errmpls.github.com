@@ -4,16 +4,16 @@
 
 <monthly>
 
-{% for event in site.data.events %}
+{% for event in site.events %}
 	<event>
-		<name>{{ site.data.events.event.name }}</name>
-		<startdate>{{ site.data.events.event.startDate }}</startdate>
-		<enddate>{{ site.data.events.event.endDate }}</enddate>
-		<starttime>{{ site.data.events.event.startTime }}</starttime>
-		<endtime>{{ site.data.events.event.endTime }}</endtime>
-		<color>#{{ site.data.events.event.color }}</color>
-    <info>{{ site.data.events.event.info }}</info>
-		<url>{{ site.data.events.event.url }}</url>
+		<name>{{ event.title }}</name>
+		<startdate>{{ event.startDate }}</startdate>
+		<enddate>{{ event.endDate }}</enddate>
+		<starttime>{{ event.startTime }}</starttime>
+		<endtime>{{ event.endTime }}</endtime>
+		<color>#{{ event.color }}</color>
+    <info>{{ event.content }}</info>
+		<url>{{ event.url }}</url>
 	</event>
 {% endfor %}
 

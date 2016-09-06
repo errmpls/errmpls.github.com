@@ -20,20 +20,20 @@ defaults:
     type: people
   values:
     layout: about
-    name: ''
     image: ''
     img-alt: ''
-    bio: ''
 - scope:
     path: ''
     type: events
   values:
     layout: events
-    name: ''
+    startDate: ''
+    endDate: ''
+    startTime: ''
+    endTime: ''
     starts at: ''
     ends at: ''
     event color: ''
-    info: ''
     url: ''
 url: http://www.errartistcollective.com/
 baseurl: 
