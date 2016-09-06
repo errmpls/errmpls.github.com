@@ -1,28 +1,19 @@
 ---
-<<<<<<< HEAD
-err-name: hannah
-layout: about
-err-img: treehouse.png
-err-thumbnail: treehouse-thumbnail.png
-err-alt: image-alt
-err-description: it worked.
-=======
-title: Treehouse
-date: '2014-07-15 00:00:00'
+title: Dreams
+date: '2014-07-18 00:00:00'
 categories:
 - Web
 - Development
 subtitle: Website Design
 layout: default
-modal-id: 4
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+modal-id: 1
+img: dreams.png
+thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
   novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
   diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
->>>>>>> origin/master
 ---
 
