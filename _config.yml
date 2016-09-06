@@ -11,6 +11,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  events:
+    title: events
+    output: true
 url: http://www.errartistcollective.com/
 baseurl: 
 email: your-email@domain.com
