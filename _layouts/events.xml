@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <atom:link href="{{ "calendar.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" /> -->
+
+<monthly>
+
+{% for event in site.data.events %}
+	<event>
+		<name>{{ site.data.events.event.name }}</name>
+		<startdate>{{ site.data.events.event.startDate }}</startdate>
+		<enddate>{{ site.data.events.event.endDate }}</enddate>
+		<starttime>{{ site.data.events.event.startTime }}</starttime>
+		<endtime>{{ site.data.events.event.endTime }}</endtime>
+		<color>#{{ site.data.events.event.color }}</color>
+    <info>{{ site.data.events.event.info }}</info>
+		<url>{{ site.data.events.event.url }}</url>
+	</event>
+{% endfor %}
+
+</monthly>

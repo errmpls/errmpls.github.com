@@ -2,7 +2,7 @@ $(window).load( function() {
 
   $('#mycalendar').monthly({
     mode: 'event',
-    xmlUrl: '../calendar.xml'
+    xmlUrl: '../events.xml'
   });
 
   // $('#mycalendar2').monthly({

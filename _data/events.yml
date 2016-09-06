@@ -1,0 +1,19 @@
+event:
+  name: event name
+  startDate: 2016-9-15
+  endDate: 2016-9-17
+  startTime: "12:00"
+  endTime: "2:00"
+  color: ffb128
+  info: blahblahblah eric has a nice beard
+  url: https://www.google.com/
+
+event:
+  name: event name 2
+  startDate: 2016-9-20
+  endDate: 2016-9-20
+  startTime: "12:00"
+  endTime: "2:00"
+  color: ffb128
+  info: blahblahblah eric has a nice beard
+  url: https://www.google.com/
