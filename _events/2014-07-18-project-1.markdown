@@ -1,6 +1,6 @@
 ---
 title: Dreams
-date: 2014-07-18 00:00:00 Z
+date: '2014-07-18 00:00:00'
 subtitle: Website Design
 layout: default
 modal-id: 1
