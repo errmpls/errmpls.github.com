@@ -5,15 +5,15 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://www.errartistcollective.com//</link>
     <atom:link href="http://www.errartistcollective.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 06 Sep 2016 01:13:58 +0000</pubDate>
-    <lastBuildDate>Tue, 06 Sep 2016 01:13:58 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2016 20:14:25 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2016 20:14:25 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>default</title>
         <description>
 </description>
-        <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 05 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://www.errartistcollective.com//2016/09/05/default/</link>
         <guid isPermaLink="true">http://www.errartistcollective.com//2016/09/05/default/</guid>
         
@@ -24,7 +24,7 @@
         <title>Dreams</title>
         <description>
 </description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
         <link>http://www.errartistcollective.com//web/development/2014/07/18/project-1/</link>
         <guid isPermaLink="true">http://www.errartistcollective.com//web/development/2014/07/18/project-1/</guid>
         
@@ -39,7 +39,7 @@
         <title>Escape</title>
         <description>
 </description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0500</pubDate>
         <link>http://www.errartistcollective.com//web/development/2014/07/17/project-2/</link>
         <guid isPermaLink="true">http://www.errartistcollective.com//web/development/2014/07/17/project-2/</guid>
         
@@ -54,7 +54,7 @@
         <title>Golden</title>
         <description>
 </description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0500</pubDate>
         <link>http://www.errartistcollective.com//web/development/2014/07/16/project-3/</link>
         <guid isPermaLink="true">http://www.errartistcollective.com//web/development/2014/07/16/project-3/</guid>
         
@@ -69,7 +69,7 @@
         <title>Treehouse</title>
         <description>
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
         <link>http://www.errartistcollective.com//web/development/2014/07/15/project-4/</link>
         <guid isPermaLink="true">http://www.errartistcollective.com//web/development/2014/07/15/project-4/</guid>
         
@@ -84,7 +84,7 @@
         <title>Round Icons</title>
         <description>
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
         <link>http://www.errartistcollective.com//web/development/2014/07/15/project-6/</link>
         <guid isPermaLink="true">http://www.errartistcollective.com//web/development/2014/07/15/project-6/</guid>
         
@@ -99,7 +99,7 @@
         <title>Startup Framework</title>
         <description>
 </description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate>
         <link>http://www.errartistcollective.com//web/development/2014/07/14/project-5/</link>
         <guid isPermaLink="true">http://www.errartistcollective.com//web/development/2014/07/14/project-5/</guid>
         
