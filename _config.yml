@@ -27,7 +27,6 @@ defaults:
     type: events
   values:
     layout: events
-    name: ''
     startDate: ''
     endDate: ''
     startTime: ''
