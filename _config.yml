@@ -25,7 +25,7 @@ description: Write an awesome description for your new site here. You can edit t
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 people:
-- name: Kay Garland
+- name: hannah
   image: "/uploads/13446033_784152678387414_1743432717_o.jpg"
   position: Lead Designer
   social:
@@ -35,6 +35,9 @@ people:
     url: 
   - title: stack-overflow
     url: 
+  bio: 'Hanna Kjeldbjerg was struck by idea lightning and—praise be for the type of
+    friends who manifest—Err was born. She is a poet, an editor at Beaver’s Pond Press,
+    and feels constantly victimized by Mercury Retrograde. '
 - name: Larry Parker
   pic: 2
   position: Lead Marketer
