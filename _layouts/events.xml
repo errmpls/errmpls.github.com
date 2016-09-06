@@ -7,11 +7,11 @@
 {% for event in site.events %}
 	<event>
 		<name>{{ event.title }}</name>
-		<startdate>{{ event.startDate }}</startdate>
-		<enddate>{{ event.endDate }}</enddate>
-		<starttime>{{ event.startTime }}</starttime>
-		<endtime>{{ event.endTime }}</endtime>
-		<color>#{{ event.color }}</color>
+		<startdate>{{ event.starts_at }}</startdate>
+		<enddate>{{ event.ends_at }}</enddate>
+		<starttime>{{ event.starts_at }}</starttime>
+		<endtime>{{ event.ends_at }}</endtime>
+		<color>#{{ event.event_color }}</color>
     <info>{{ event.content }}</info>
 		<url>{{ event.url }}</url>
 	</event>
