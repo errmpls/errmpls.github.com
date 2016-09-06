@@ -1,6 +1,6 @@
 ---
 title: Dreams
-date: '2014-07-18 00:00:00'
+date: 2014-07-18 00:00:00 Z
 categories:
 - Web
 - Development
