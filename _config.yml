@@ -5,10 +5,6 @@ collections:
   people:
     title: People
     output: true
-    Person:
-      Image: 
-      Name: 
-      Bio: 
   posts:
     title: Posts
     output: true
@@ -18,46 +14,33 @@ collections:
   events:
     title: events
     output: true
+defaults:
+- scope:
+    path: ''
+    type: people
+  values:
+    layout: about
+    name: ''
+    image: ''
+    img-alt: ''
+    bio: ''
+- scope:
+    path: ''
+    type: events
+  values:
+    layout: events
+    name: ''
+    starts at: ''
+    ends at: ''
+    event color: ''
+    info: ''
+    url: ''
 url: http://www.errartistcollective.com/
 baseurl: 
 email: your-email@domain.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-people:
-- name: hannah
-  image: "/uploads/13446033_784152678387414_1743432717_o.jpg"
-  position: Lead Designer
-  social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url: 
-  - title: stack-overflow
-    url: 
-  bio: 'Hanna Kjeldbjerg was struck by idea lightning and—praise be for the type of
-    friends who manifest—Err was born. She is a poet, an editor at Beaver’s Pond Press,
-    and feels constantly victimized by Mercury Retrograde. '
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url: 
-  - title: linkedin
-    url: 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url: 
-  - title: google-plus
-    url: 
 social:
 - title: twitter
   url: http://twitter.com/jekyllrb
