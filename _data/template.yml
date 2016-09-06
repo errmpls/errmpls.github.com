@@ -1,12 +1,1 @@
----
----
-
----
-color:
-  primary: fed136
-  secondary: fec503
-  secondary-dark: 333
-  muted: 777
-font:
-  primary: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif
-  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+--- {}
