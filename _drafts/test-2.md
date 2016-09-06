@@ -1,5 +1,5 @@
 ---
 title: test
-date: '2016-09-05 19:54:55'
+date: '2016-09-05 00:00:00'
 layout: calendar
 ---
