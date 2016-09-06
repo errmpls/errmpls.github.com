@@ -26,7 +26,7 @@ description: Write an awesome description for your new site here. You can edit t
   results) and in your feed.xml site description.
 people:
 - name: Kay Garland
-  pic: 1
+  image: "/uploads/13446033_784152678387414_1743432717_o.jpg"
   position: Lead Designer
   social:
   - title: twitter
