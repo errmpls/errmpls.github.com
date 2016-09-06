@@ -2,7 +2,7 @@
 title: Escape
 date: '2014-07-17 00:00:00'
 subtitle: Website Design
-layout: default
+layout: feed
 modal-id: 2
 img: escape.png
 thumbnail: escape-thumbnail.png

@@ -1,19 +1,19 @@
 <section id="people">
   <ul class="card-flip">
 
-{% for post in site.posts %}
+{% for person in site.people %}
 <li>
-<h4>{{ post.name }}</h4>
+<h4>{{ person.err-name }}</h4>
 <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
 <div class="flipper">
 <div class="front">
 <!-- front content -->
-<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+<img src="img/portfolio/{{ person.err-img }}" class="img-responsive img-centered" alt="{{ person.err-alt }}">
 </div>
 <div class="back">
 <h6>Bio</h6>
 <p>
-  {{ post.description }}
+  {{ person.err-description }}
 </p>
 <!-- back content -->
 </div>

@@ -2,7 +2,7 @@
 title: Dreams
 date: '2014-07-18 00:00:00'
 subtitle: Website Design
-layout: default
+layout: feed
 modal-id: 1
 img: dreams.png
 thumbnail: dreams-thumbnail.png

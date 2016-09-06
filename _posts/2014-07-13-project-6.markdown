@@ -2,7 +2,7 @@
 title: Round Icons
 date: '2014-07-15 00:00:00'
 subtitle: Graphic Design
-layout: default
+layout: feed
 modal-id: 6
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
