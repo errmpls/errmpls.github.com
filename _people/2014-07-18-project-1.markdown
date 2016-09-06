@@ -1,6 +1,6 @@
 ---
 title: Dreams
-date: '2014-07-18 00:00:00'
+date: 2014-07-18 00:00:00 Z
 subtitle: Website Design
 layout: default
 modal-id: 1
@@ -14,3 +14,4 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
   diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 categories: Web Development
 ---
+
