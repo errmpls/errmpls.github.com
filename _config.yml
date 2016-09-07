@@ -31,9 +31,9 @@ defaults:
     endDate: ''
     startTime: ''
     endTime: ''
-    starts at: ''
-    ends at: ''
-    event color: ''
+    starts_at: ''
+    ends_at: ''
+    event_color: ''
     url: ''
 url: http://www.errartistcollective.com/
 baseurl: 
