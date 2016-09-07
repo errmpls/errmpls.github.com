@@ -17,6 +17,13 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: artists
+  values:
+    layout: artists
+    image: ''
+    img-alt: ''
+- scope:
+    path: ''
     type: people
   values:
     layout: about
@@ -36,7 +43,7 @@ defaults:
     event_color: ''
     url: ''
 url: http://www.errartistcollective.com/
-baseurl: 
+baseurl:
 email: your-email@domain.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
@@ -45,7 +52,7 @@ social:
 - title: twitter
   url: http://twitter.com/jekyllrb
 - title: facebook
-  url: 
+  url:
 - title: stack-overflow
   url: http://stackoverflow.com/questions/tagged/jekyll
 - title: bitbucket
