@@ -24,7 +24,7 @@ defaults:
   values:
     layout: artists
     artists:
-    - group_name: ""
+    - name: ""
       url: ""
       - group_member: ""
         url: ""
