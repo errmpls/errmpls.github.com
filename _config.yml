@@ -24,7 +24,20 @@ defaults:
   values:
     layout: artists
     artists:
-<<<<<<< HEAD
+    - group_name: ""
+      url: ""
+      - group_member: ""
+        url: ""
+      - group_member: ""
+        url: ""
+      - group_member: ""
+        url: ""
+      - group_member: ""
+        url: ""
+      - group_member: ""
+        url: ""
+      - group_member: ""
+        url: ""
     - name: ""
       url: ""
     - name: ""
@@ -41,24 +54,6 @@ defaults:
       url: ""
     - name: ""
       url: ""
-=======
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
->>>>>>> origin/master
 - scope:
     path: ''
     type: people
