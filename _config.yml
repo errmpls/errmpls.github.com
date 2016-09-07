@@ -23,23 +23,18 @@ defaults:
     type: artists
   values:
     layout: artists
-    artists:
-    - title: ''
+    groups:
+    - group_name: ''
+      group_url: ''
+      group_info: ''
+      members:
+      - member_name: ''
+        member_url: ''
+        member_info: ''
+    individuals:
+    - name: ''
       url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
-    - title: ''
-      url: ''
+      info: ''
 - scope:
     path: ''
     type: people
