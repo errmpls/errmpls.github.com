@@ -25,13 +25,16 @@ defaults:
     layout: artists
     groups:
     - group_name: ''
-      url: ''
-      group_members:
-      - group_member: ''
-        url: ''
-    individual:
+      group_url: ''
+      group_info: ''
+      members:
+      - member_name: ''
+        member_url: ''
+        member_info: ''
+    individuals:
     - name: ''
       url: ''
+      info: ''
 - scope:
     path: ''
     type: people
@@ -53,7 +56,7 @@ defaults:
     event_color: ''
     url: ''
 url: http://www.errartistcollective.com/
-baseurl: 
+baseurl:
 email: your-email@domain.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
@@ -62,7 +65,7 @@ social:
 - title: twitter
   url: http://twitter.com/jekyllrb
 - title: facebook
-  url: 
+  url:
 - title: stack-overflow
   url: http://stackoverflow.com/questions/tagged/jekyll
 - title: bitbucket
