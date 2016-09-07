@@ -24,37 +24,37 @@ defaults:
   values:
     layout: artists
     artists:
-    - name: ""
-      url: ""
+    - name: ''
+      url: ''
       group_members:
-      - group_member: ""
-        url: ""
-      - group_member: ""
-        url: ""
-      - group_member: ""
-        url: ""
-      - group_member: ""
-        url: ""
-      - group_member: ""
-        url: ""
-      - group_member: ""
-        url: ""
-    - name: ""
-      url: ""
-    - name: ""
-      url: ""
-    - name: ""
-      url: ""
-    - name: ""
-      url: ""
-    - name: ""
-      url: ""
-    - name: ""
-      url: ""
-    - name: ""
-      url: ""
-    - name: ""
-      url: ""
+      - group_member: ''
+        url: ''
+      - group_member: ''
+        url: ''
+      - group_member: ''
+        url: ''
+      - group_member: ''
+        url: ''
+      - group_member: ''
+        url: ''
+      - group_member: ''
+        url: ''
+    - name: ''
+      url: ''
+    - name: ''
+      url: ''
+    - name: ''
+      url: ''
+    - name: ''
+      url: ''
+    - name: ''
+      url: ''
+    - name: ''
+      url: ''
+    - name: ''
+      url: ''
+    - name: ''
+      url: ''
 - scope:
     path: ''
     type: people
@@ -76,7 +76,7 @@ defaults:
     event_color: ''
     url: ''
 url: http://www.errartistcollective.com/
-baseurl:
+baseurl: 
 email: your-email@domain.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
@@ -85,7 +85,7 @@ social:
 - title: twitter
   url: http://twitter.com/jekyllrb
 - title: facebook
-  url:
+  url: 
 - title: stack-overflow
   url: http://stackoverflow.com/questions/tagged/jekyll
 - title: bitbucket
