@@ -24,6 +24,7 @@ defaults:
   values:
     layout: artists
     artists:
+<<<<<<< HEAD
     - name: ""
       url: ""
     - name: ""
@@ -40,6 +41,24 @@ defaults:
       url: ""
     - name: ""
       url: ""
+=======
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+>>>>>>> origin/master
 - scope:
     path: ''
     type: people
