@@ -2,6 +2,9 @@
 title: Awesome Titles
 timezone: UTC
 collections:
+  artists:
+    title: Artists
+    output: true
   people:
     title: People
     output: true
