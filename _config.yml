@@ -24,22 +24,22 @@ defaults:
   values:
     layout: artists
     artists:
-    - title: ""
-      url: ""
-    - title: ""
-      url: ""
-    - title: ""
-      url: ""
-    - title: ""
-      url: ""
-    - title: ""
-      url: ""
-    - title: ""
-      url: ""
-    - title: ""
-      url: ""
-    - title: ""
-      url: ""
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
+    - title: ''
+      url: ''
 - scope:
     path: ''
     type: people
