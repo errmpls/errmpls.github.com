@@ -23,8 +23,23 @@ defaults:
     type: artists
   values:
     layout: artists
-    image: ''
-    img-alt: ''
+    artists:
+    - title: ""
+      url: ""
+    - title: ""
+      url: ""
+    - title: ""
+      url: ""
+    - title: ""
+      url: ""
+    - title: ""
+      url: ""
+    - title: ""
+      url: ""
+    - title: ""
+      url: ""
+    - title: ""
+      url: ""
 - scope:
     path: ''
     type: people
