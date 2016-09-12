@@ -14,9 +14,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  events:
-    title: archive
-    output: true
   archive:
     title: archive
     output: true
