@@ -1,6 +1,6 @@
 ---
 title: Err Artist Collective
-timezone: America/Chicago
+timezone: UTC
 collections:
   artists:
     title: Artists
@@ -17,12 +17,14 @@ collections:
   events:
     title: events
     output: true
+  events:
+    title: archive
+    output: true
 defaults:
 - scope:
     path: ''
     type: artists
   values:
-    layout: artists
     groups:
     - group_name: ''
       group_url: ''
@@ -34,16 +36,26 @@ defaults:
       url: ''
 - scope:
     path: ''
+    type: archive
+  values:
+    first_image: ''
+    img-alt: ''
+    second_image: ''
+    img-alt: ''
+    third_image: ''
+    img-alt: ''
+    fourth_image: ''
+    img-alt: ''
+- scope:
+    path: ''
     type: people
   values:
-    layout: about
     image: ''
     img-alt: ''
 - scope:
     path: ''
     type: events
   values:
-    layout: events
     startDate: ''
     endDate: ''
     startTime: ''
@@ -53,11 +65,9 @@ defaults:
     event_color: ''
     url: ''
 url: http://www.errartistcollective.com/
-baseurl: 
+baseurl:
 email: your-email@domain.com
-description: Err is a Twin Cities collective hell-bent on championing emerging artists.
-  We’re about getting down and lifting up. We throw art-filled parties, and make party-filled
-  art. We hold ourselves responsible. We don’t do this alone. Erryone is invited.
+description: Err is a Twin Cities collective hell-bent on championing emerging artists. We’re about getting down and lifting up. We throw art-filled parties, and make party-filled art. We hold ourselves responsible. We don’t do this alone. Erryone is invited.
 social:
 - title: twitter
   url: http://twitter.com/jekyllrb
