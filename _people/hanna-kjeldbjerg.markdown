@@ -1,7 +1,7 @@
 ---
 title: Hanna Kjeldbjerg
 date: 2016-09-06 18:53:00 Z
-image: "/uploads/13446033_784152678387414_1743432717_o.jpg"
+image: "/uploads/default.jpg"
 img-alt: Hanna Kjeldbjerg
 ---
 
