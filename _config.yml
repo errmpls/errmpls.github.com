@@ -17,6 +17,9 @@ collections:
   events:
     title: archive
     output: true
+  archive:
+    title: archive
+    output: true
 defaults:
 - scope:
     path: ''
