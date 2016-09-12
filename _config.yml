@@ -1,5 +1,5 @@
 ---
-title: Awesome Titles
+title: Err Artist Collective
 timezone: UTC
 collections:
   artists:
@@ -26,15 +26,12 @@ defaults:
     groups:
     - group_name: ''
       group_url: ''
-      group_info: ''
       members:
       - member_name: ''
         member_url: ''
-        member_info: ''
     individuals:
     - name: ''
       url: ''
-      info: ''
 - scope:
     path: ''
     type: people
@@ -56,18 +53,16 @@ defaults:
     event_color: ''
     url: ''
 url: http://www.errartistcollective.com/
-baseurl: 
+baseurl:
 email: your-email@domain.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: Err is a Twin Cities collective hell-bent on championing emerging artists. We’re about getting down and lifting up. We throw art-filled parties, and make party-filled art. We hold ourselves responsible. We don’t do this alone. Erryone is invited.
 social:
 - title: twitter
   url: http://twitter.com/jekyllrb
 - title: facebook
-  url: 
-- title: stack-overflow
-  url: http://stackoverflow.com/questions/tagged/jekyll
+  url: https://www.facebook.com/ErrMN/
+- title: instagram
+  url: https://www.instagram.com/errmpls/
 - title: bitbucket
   url: http://bitbucket.org/jekyll
 - title: github

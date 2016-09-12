@@ -1,8 +1,10 @@
 <section id="people">
+  <h2 class="bg-blue">Those held responsible</h2>
+  <div class="container">
   <ul class="card-flip">
 {% for person in site.people %}
 <li>
-<h4>{{ person.title }}</h4>
+
 <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
 <div class="flipper">
 <div class="front">
@@ -10,7 +12,6 @@
 <img src="{{ person.image }}" class="img-responsive img-centered" alt="{{ person.img-alt }}">
 </div>
 <div class="back">
-<h6>Bio</h6>
 <p>
   {{ person.content }}
 </p>
@@ -19,8 +20,10 @@
 </div>
 
 </div>
+<h4>{{ person.title }}</h4>
 </li>
 {% endfor %}
 
 </ul>
+</div>
 </section>
