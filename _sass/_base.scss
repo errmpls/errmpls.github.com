@@ -4,27 +4,111 @@ h1, h2, h3, h4, h5, h6,
   text-transform: none;
 }
 h2 {
-  color: $white;
+  color: $cream;
   text-align: center;
   padding: 20px;
+  font-size: 33px;
+  margin: 0;
 }
 section {
-  padding: 67px 0;
-  margin-bottom: -89px;
+  padding: 0 0 67px;
 
-  &#about {
-    background-image: url("/img/bg-about.png");
+
+  .container {
+    padding: 50px 0;
   }
-  &#people {
-    background-image: url("/img/bg-people.png");
+
+  &.about {
+    background: url("/img/AboutPage-Background.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
   }
-  &#artists {
-    background-image: url("/img/bg-artists.png");
+  &.people {
+    background: url("/img/THRPage-Background.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    .people-container {
+      max-width: 1170px;
+      width: auto;
+      margin: 0 auto;
+      text-align:center;
+    }
+
+    h3 {
+      margin-top:40px;
+      color: $gray-purple;
+    }
   }
-  &#calendar {
-    background-image: url("/img/bg-calendar.png");
+  &.artists {
+    // background-image: url("/img/bg-artists.png");
   }
-  &#contact {
-    background-image: url("/img/bg-contact.png");
+  &.calendar {
+    background: url("/img/CalenderPage-Background.jpg") no-repeat center center ;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+  &.contact {
+    background: url("/img/SubmitPage-Background.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+  &.archive {
+    background-color: $black;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+}
+.archive {
+  img {
+    width: 100%;
+  }
+  h5 {
+    color: $cream;
+  }
+}
+header {
+  text-align: left;
+  color: $black;
+  background: url('/img/HomePage-Background.jpg') no-repeat right bottom;
+
+  .intro-text {
+    padding-top: 175px;
+
+    h3 {
+      font-size: 42px;
+    }
+    p {
+      font-size: 30px;
+      line-height: 33px;
+    }
+  }
+}
+
+.table {
+  display: table;
+  margin: 0 auto;
+}
+@media(min-width:768px) {
+  .about {
+    .about-text {
+      padding-bottom: 215px;
+
+      p {
+        font-size: 25px;
+        line-height: 30px;
+        margin-top: 45px;
+      }
+    }
   }
 }

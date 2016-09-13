@@ -8,8 +8,8 @@
 	}
 
 .flip-container, .front, .back {
-	width: 320px;
-	height: 400px;
+	width: 205px;
+	height: 330px;
 }
 
 /* flip speed goes here */
@@ -39,23 +39,29 @@
 /* back, initially hidden pane */
 .back {
 	transform: rotateY(180deg);
-
-  background-color: black;
+  background-color: $gray-purple;
   padding: 10px;
   color: #fff;
+
+	p {
+		font-size: 13px;
+		word-wrap: break-word;
+	}
 }
 .card-flip {
+	min-width:300px;
+	padding:0;
   list-style-type: none;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-justify-content: space-between;
-  -ms-flex-pack: justify;
-  justify-content: space-around;
-  flex-wrap: wrap;
+  // display: -webkit-flex;
+  // display: -ms-flexbox;
+  // display: flex;
+  // -webkit-justify-content: space-between;
+  // -ms-flex-pack: justify;
+  // justify-content: space-around;
+  // flex-wrap: wrap;
     li {
-
-
+			display: inline-block;
+			margin: 20px;
   }
   h4 {
     text-align: center;

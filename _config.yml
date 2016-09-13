@@ -14,6 +14,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  events:
+    title: events
+    output: true
   archive:
     title: archive
     output: true
@@ -33,15 +36,6 @@ defaults:
       url: ''
 - scope:
     path: ''
-    type: archive
-  values:
-    first_image: ''
-    img-alt: ''
-    second_image: ''
-    third_image: ''
-    fourth_image: ''
-- scope:
-    path: ''
     type: people
   values:
     image: ''
@@ -59,11 +53,27 @@ defaults:
     event_color: ''
     url: ''
 url: http://www.errartistcollective.com/
-baseurl: 
-email: your-email@domain.com
+baseurl:
+email: errmpls@gmail.com
 description: Err is a Twin Cities collective hell-bent on championing emerging artists.
   We’re about getting down and lifting up. We throw art-filled parties, and make party-filled
   art. We hold ourselves responsible. We don’t do this alone. Erryone is invited.
+members:
+- member: Airin Murphy
+- member: Becca Mogck
+- member: Grace Lansing
+- member: Hanna Kjeldbjerg
+- member: Kellie Reichert
+- member: Rachel Mogck
+- member: Shannon Fletcher
+- member: V. S. Ramstack
+former_members:
+- former_member: Michelle Lippman
+- former_member: Libby Borchert
+- former_member: Taylor Hammes
+- former_member: Trevor Simmons
+- former_member: Patrick Erbe
+- former_member: Tim Schumacher
 social:
 - title: twitter
   url: http://twitter.com/jekyllrb
