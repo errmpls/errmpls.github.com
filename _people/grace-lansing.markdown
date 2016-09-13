@@ -1,7 +1,7 @@
 ---
 title: Grace Lansing
 date: 2016-09-11 21:03:00 -05:00
-image: "/uploads/default.jpg"
+image: "/uploads/Photo-2-Grace.png"
 img-alt: Grace Lansing
 ---
 
