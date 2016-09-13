@@ -1,7 +1,7 @@
 ---
 title: Rachel Mogck
 date: 2016-09-11 21:04:00 -05:00
-image: "/uploads/default.jpg"
+image: "/uploads/Photo-5-Rachel.png"
 img-alt: Rachel Mogck
 ---
 
