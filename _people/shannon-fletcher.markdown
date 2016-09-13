@@ -1,7 +1,7 @@
 ---
 title: Shannon Fletcher
 date: 2016-09-11 21:02:00 -05:00
-image: "/uploads/default.jpg"
+image: "/uploads/Photo-3-Shannon.png"
 img-alt: Shannon Fletcher
 ---
 
