@@ -1,0 +1,68 @@
+.navbar {
+  background-color: $black;
+  border-bottom: solid 10px $dark-red;
+  padding: 60px 0 0;
+
+  &.navbar-shrink {
+    a.navbar-brand {
+      top: -18px;
+      transition: all .3s ease;
+        img {
+        height: 75px;
+        transition: all .3s ease;
+      }
+    }
+  }
+
+  .nav {
+    float: right;
+      li {
+        a:hover,
+        a:focus {
+          color: $white;
+        }
+        &.active a,
+        &.active a:hover,
+        &.active a:focus {
+          background-color: $dark-red;
+        }
+        a {
+        font-size: 24px;
+        padding-left: 25px;
+        padding-right: 25px;
+      }
+    }
+  }
+
+  .navbar-brand {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+
+    h1 {
+      font-size: 21px;
+      display: inline-block;
+      width: 140px;
+      color: $white;
+      vertical-align: bottom;
+    }
+  }
+}
+
+
+header {
+  text-align: left;
+  color: $black;
+  background-image: url('/img/bg-home.png');
+
+  .intro-text {
+    padding-top: 175px;
+
+    h3 {
+      font-size: 40px;
+    }
+    p {
+      font-size: 23px;
+    }
+  }
+}

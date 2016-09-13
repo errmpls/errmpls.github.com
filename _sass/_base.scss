@@ -1,0 +1,30 @@
+h1, h2, h3, h4, h5, h6,
+.navbar-default .nav li a {
+  font-family: "albert";
+  text-transform: none;
+}
+h2 {
+  color: $white;
+  text-align: center;
+  padding: 20px;
+}
+section {
+  padding: 67px 0;
+  margin-bottom: -89px;
+
+  &#about {
+    background-image: url("/img/bg-about.png");
+  }
+  &#people {
+    background-image: url("/img/bg-people.png");
+  }
+  &#artists {
+    background-image: url("/img/bg-artists.png");
+  }
+  &#calendar {
+    background-image: url("/img/bg-calendar.png");
+  }
+  &#contact {
+    background-image: url("/img/bg-contact.png");
+  }
+}

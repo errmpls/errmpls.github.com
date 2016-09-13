@@ -1,0 +1,85 @@
+---
+title: Err Artist Collective
+timezone: America/Chicago
+collections:
+  artists:
+    title: Artists
+    output: true
+  people:
+    title: People
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  archive:
+    title: archive
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: artists
+  values:
+    groups:
+    - group_name: ''
+      group_url: ''
+      members:
+      - member_name: ''
+        member_url: ''
+    individuals:
+    - name: ''
+      url: ''
+- scope:
+    path: ''
+    type: archive
+  values:
+    first_image: ''
+    img-alt: ''
+    second_image: ''
+    third_image: ''
+    fourth_image: ''
+- scope:
+    path: ''
+    type: people
+  values:
+    image: ''
+    img-alt: ''
+- scope:
+    path: ''
+    type: events
+  values:
+    startDate: ''
+    endDate: ''
+    startTime: ''
+    endTime: ''
+    starts_at: ''
+    ends_at: ''
+    event_color: ''
+    url: ''
+url: http://www.errartistcollective.com/
+baseurl: 
+email: your-email@domain.com
+description: Err is a Twin Cities collective hell-bent on championing emerging artists.
+  We’re about getting down and lifting up. We throw art-filled parties, and make party-filled
+  art. We hold ourselves responsible. We don’t do this alone. Erryone is invited.
+social:
+- title: twitter
+  url: http://twitter.com/jekyllrb
+- title: facebook
+  url: https://www.facebook.com/ErrMN/
+- title: instagram
+  url: https://www.instagram.com/errmpls/
+- title: bitbucket
+  url: http://bitbucket.org/jekyll
+- title: github
+  url: http://github.com/jekyll
+address:
+- line: 3481 Melrose Place
+- line: Beverly Hills, CA 90210
+markdown: kramdown
+permalink: pretty
+sass:
+  sass_dir: _sass
+  style: compressed
