@@ -1,7 +1,7 @@
 ---
 title: V. S. Ramstack
-date: 2016-09-12 01:54:00 Z
-image: "/uploads/default.jpg"
+date: 2016-09-11 20:54:00 -05:00
+image: "/uploads/Photo-8-Vanessa.png"
 img-alt: V. S. Ramstack
 ---
 
