@@ -1,4 +1,45 @@
----
-layout: events
----
+<?xml version="1.0"?>
+<!-- <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <atom:link href="http://www.errartistcollective.com/calendar.xml" rel="self" type="application/rss+xml" /> -->
 
+<monthly>
+
+
+	<event>
+		<name>christmas</name>
+		<startdate>2016-09-16</startdate>
+		<enddate>2016-09-18</enddate>
+		<starttime>19:00:00</starttime>
+		<endtime>19:00:00</endtime>
+		<color>#ff0000</color>
+    <info><p>this is info about the event</p>
+</info>
+		<url>/events/christmas/</url>
+	</event>
+
+	<event>
+		<name>thanksgiving</name>
+		<startdate>2016-09-19</startdate>
+		<enddate>2016-09-21</enddate>
+		<starttime>21:00:00</starttime>
+		<endtime>00:00:00</endtime>
+		<color>#7e3d3d</color>
+    <info><p>this is info about the event</p>
+</info>
+		<url>/events/thanksgiving/</url>
+	</event>
+
+	<event>
+		<name>birthday</name>
+		<startdate>2016-09-24</startdate>
+		<enddate>2016-09-25</enddate>
+		<starttime>21:00:00</starttime>
+		<endtime>23:00:00</endtime>
+		<color>#9c821b</color>
+    <info><p>info on event</p>
+</info>
+		<url>/events/birthday/</url>
+	</event>
+
+
+</monthly>
