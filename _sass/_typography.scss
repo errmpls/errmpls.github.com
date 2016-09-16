@@ -1,0 +1,13 @@
+// @include font-face(Samplino, fonts/Samplino);
+
+@font-face {
+   font-family: "albert";
+   src: url(albertsthal_typewriter/Albertsthal_Typewriter.ttf);
+}
+@font-face {
+   font-family: "baskerville";
+   src: url(libre-baskerville/LibreBaskerville-Regular.ttf);
+}
+* {
+  font-family: "baskerville";
+}
