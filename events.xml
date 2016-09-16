@@ -1,4 +1,23 @@
----
-layout: events
----
+<?xml version="1.0"?>
+<!-- <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <atom:link href="http://www.errartistcollective.com/calendar.xml" rel="self" type="application/rss+xml" /> -->
 
+<monthly>
+
+
+	<event>
+		<name>event title test</name>
+		<startdate>2016-09-20</startdate>
+		<enddate>2016-09-20</enddate>
+		<starttime>18:00:00</starttime>
+		<endtime>20:00:00</endtime>
+		<color>#f07490</color>
+    <info><p>event info tessssssssst</p>
+</info>
+		<eventurl>https://www.youtube.com/watch?v=LOZuxwVk7TU</eventurl>
+		<address>2700 Buchanan st NE Minneapolis, MN 55418</address>
+
+	</event>
+
+
+</monthly>
