@@ -42,8 +42,10 @@
   background-color: $gray-purple;
   padding: 10px;
   color: #fff;
+	border-radius: 10px;
 
 	p {
+		text-align: left;
 		font-size: 13px;
 		word-wrap: break-word;
 	}
@@ -66,4 +68,19 @@
   h4 {
     text-align: center;
   }
+}
+@media screen and (max-width:768px) {
+	.back {
+		vertical-align: top;
+	}
+	.flip-container {
+		width: auto;
+		height: auto;
+	}
+	.front, .back,
+	.flip-container:hover .flipper, .flip-container.hover .flipper {
+		transform: none;
+		display: inline-block;
+		position: relative;
+	}
 }

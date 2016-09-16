@@ -1,3 +1,4 @@
+
 .navbar {
   background-color: $black;
   border-bottom: solid 10px $dark-red;
@@ -5,7 +6,7 @@
   transition: all .3s ease;
 
   &.navbar-shrink {
-    padding-top:17px;
+    padding:15px 0 10px;
 
     a.navbar-brand {
       top: -18px;
@@ -49,5 +50,10 @@
       color: $cream;
       vertical-align: bottom;
     }
+  }
+}
+@media screen and (max-width: 1029px) {
+  .navbar .nav li a {
+    font-size: 12px;
   }
 }
