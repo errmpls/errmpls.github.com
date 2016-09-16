@@ -1,0 +1,39 @@
+<section id="people" class="people">
+  <h2 class="bg-blue">Those held responsible</h2>
+  <div class="container">
+    <div class="people-container">
+  <ul class="card-flip">
+{% for person in site.people %}
+<li>
+
+<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+<div class="flipper">
+<div class="front">
+<!-- front content -->
+<img src="{{ person.image }}" class="img-responsive img-centered" alt="{{ person.img-alt }}">
+</div>
+<div class="back">
+<p>
+  {{ person.content }}
+</p>
+<!-- back content -->
+</div>
+</div>
+
+</div>
+</li>
+
+{% endfor %}
+
+</ul>
+</div>
+
+<h3>Those Formerly Held Responsible: </h3>
+{% for member in site.former_members %}
+
+<span>
+  {{ member.former_member }}.
+</span>
+{% endfor %}
+</div>
+</section>
