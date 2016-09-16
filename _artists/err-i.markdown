@@ -1,6 +1,7 @@
 ---
 title: Err I
 date: 2014-10-01 18:22:00 -05:00
+position: 1
 individuals:
 - name: Tim Schumacher
   url: 
