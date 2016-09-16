@@ -8,7 +8,7 @@ endTime: '2:00'
 starts_at: 2016-09-17 00:00:00 Z
 ends_at: 2016-09-19 00:00:00 Z
 event_color: "#ff0000"
-url: https://hellosundress.wordpress.com/
+url: "https://hellosundress.wordpress.com/"
 ---
 
 this is info about the event

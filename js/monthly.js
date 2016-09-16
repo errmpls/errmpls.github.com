@@ -93,7 +93,7 @@ Monthly 2.0.7 by Kevin Thornbloom is licensed under a Creative Commons Attributi
 					var day = i + 1; // Fix 0 indexed days
 					var dayNamenum = new Date(y, mZeroed, day, 0, 0, 0, 0).getDay()
 
-					$('#' + uniqueId + ' .monthly-day-wrap').append('<a href="#" class="m-d monthly-day monthly-day-event" data-number="'+day+'"><div class="monthly-day-number">'+day+'</div><div class="monthly-indicator-wrap"></div></a>');
+					$('#' + uniqueId + ' .monthly-day-wrap').append('<div class="m-d monthly-day monthly-day-event" data-number="'+day+'"><div class="monthly-day-number">'+day+'</div><div class="monthly-indicator-wrap"></div></div>');
 					$('#' + uniqueId + ' .monthly-event-list').append('<div class="monthly-list-item" id="'+uniqueId+'day'+day+'" data-number="'+day+'"><div class="monthly-event-list-date">'+dayNames[dayNamenum]+'<br>'+day+'</div></div>');
 				}
 			} else {
@@ -122,7 +122,7 @@ Monthly 2.0.7 by Kevin Thornbloom is licensed under a Creative Commons Attributi
 			if (setMonth == currentMonth && setYear == currentYear) {
 				$('#' + uniqueId + ' .monthly-header-title').html(monthNames[m - 1] +' '+ y);
 			} else {
-				$('#' + uniqueId + ' .monthly-header-title').html(monthNames[m - 1] +' '+ y +'<a href="#" class="monthly-reset" title="Back To This Month"></a> ');
+				$('#' + uniqueId + ' .monthly-header-title').html(monthNames[m - 1] +' '+ y +'<a href="#" class="monthly-reset" title="Back To This Month">Present month</a> ');
 			}
 
 			// Account for empty days at start
@@ -303,7 +303,7 @@ Monthly 2.0.7 by Kevin Thornbloom is licensed under a Creative Commons Attributi
 		function viewToggleButton(){
 			if($('#'+uniqueId+' .monthly-event-list').is(":visible")) {
 				$('#'+uniqueId+' .monthly-cal').remove();
-				$('#'+uniqueId+' .monthly-header-title').prepend('<a href="#" class="monthly-cal" title="Back To Month View"><div></div></a>');
+				$('#'+uniqueId+' .monthly-header-title').prepend('<a href="#" class="monthly-cal" title="Back To Month View">Back to Month View</a>');
 			}
 		}
 
@@ -352,46 +352,37 @@ Monthly 2.0.7 by Kevin Thornbloom is licensed under a Creative Commons Attributi
 		// Back to month view
 		$(document.body).on('click', '#'+uniqueId+' .monthly-cal', function (e) {
 			$(this).remove();
+			$('a.all-events').remove();
 				$('#' + uniqueId+' .monthly-event-list').css('transform','scale(0)').delay('800').hide();
 			e.preventDefault();
 		});
 
-		// Click A Day
-		$(document.body).on('click', '#'+uniqueId+' a.monthly-day', function (e) {
-			// If events, show events list
-			if(options.mode == 'event' && options.eventList == true) {
-				var whichDay = $(this).data('number');
-				$('#' + uniqueId+' .monthly-event-list').show();
-				$('#' + uniqueId+' .monthly-event-list').css('transform');
-				$('#' + uniqueId+' .monthly-event-list').css('transform','scale(1)');
-				$('#'+uniqueId+' .monthly-list-item[data-number="'+whichDay+'"]').show();
-
-				var myElement = document.getElementById(uniqueId+'day'+whichDay);
-				var topPos = myElement.offsetTop;
-				//document.getElementByClassname('scrolling_div').scrollTop = topPos;
-				$('#'+uniqueId+' .monthly-event-list').scrollTop(topPos);
-				viewToggleButton();
-			// If picker, pick date
-			} else if (options.mode == 'picker') {
-				var whichDay = $(this).data('number'),
-				setMonth = $('#' + uniqueId).data('setMonth'),
-				setYear = $('#' + uniqueId).data('setYear');
-
-				// Should days in the past be disabled?
-				if($(this).hasClass('monthly-past-day') && options.disablePast == true) {
-					// If so, don't do anything.
-					e.preventDefault();
-				} else {
-					// Otherwise, select the date ...
-					$(''+options.target+'').val(setMonth+'/'+whichDay+'/'+setYear);
-					// ... and then hide the calendar if it started that way
-					if(options.startHidden == true) {
-						$('#'+uniqueId).hide();
-					}
-				}
-			}
+		// View all events
+		$(document.body).on('click', '.all-events', function (e) {
+			$(this).remove();
+			$('.monthly-list-item.item-has-event').show();
 			e.preventDefault();
-		});
+			});
+
+
+
+		$(document.body).on('click', '.monthly-indicator-wrap', function (e) {
+			var whichDay = $(this).parent('.monthly-day').data('number');
+
+			$('.monthly-event-list').show();
+			$('.monthly-event-list').css('transform');
+			$('.monthly-event-list').css('transform','scale(1)');
+
+
+			$('.monthly-list-item').hide();
+			$('.monthly-list-item[data-number="'+whichDay+'"]').show();
+
+			viewToggleButton();
+			$('.monthly-header-title').prepend('<a href="#" class="all-events" title="View all Events">View all events</a>');
+
+			e.preventDefault();
+			});
+
 
 		// Clicking an event within the list
 		$(document.body).on('click', '#'+uniqueId+' .listed-event', function (e) {

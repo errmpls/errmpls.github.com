@@ -7,10 +7,13 @@ $black: #000;
 $white: #fff;
 $opaque-blue: rgba(43,66,77,.5);
 
+$opaque-purple: rgba(100,87,86,.8);
+
 
 .bg-red {background-color: $dark-red;}
 .bg-blue {background-color: $dark-blue;}
 .bg-purple {background-color: $gray-purple;}
+.bg-opaque-purple {background-color: $opaque-purple;}
 .red {color: $dark-red;}
 .blue {color: $dark-blue;}
 .purple {color: $gray-purple;}

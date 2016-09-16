@@ -27,11 +27,12 @@ section {
 
   }
   &.people {
-    background: url("/img/THRPage-Background.jpg") no-repeat center center;
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    .former-members {
+      color: $white;
+
+    }
+    background-color: $black;
+
     .people-container {
       max-width: 1170px;
       width: auto;
@@ -45,7 +46,11 @@ section {
     }
   }
   &.artists {
-    // background-image: url("/img/bg-artists.png");
+    background: url("/img/THRPage-Background.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   }
   &.calendar {
     background: url("/img/CalenderPage-Background.jpg") no-repeat center center ;
@@ -80,10 +85,11 @@ section {
 header {
   text-align: left;
   color: $black;
-  background: url('/img/HomePage-Background.jpg') no-repeat right bottom;
+  background: url('/img/HomePage-Background.jpg') no-repeat right top;
+  background-size: auto 100%;
 
   .intro-text {
-    padding-top: 175px;
+    padding-top: 130px;
 
     h3 {
       font-size: 42px;
@@ -100,6 +106,15 @@ header {
   margin: 0 auto;
 }
 @media(min-width:768px) {
+  header {
+    background-size: cover;
+
+
+  .intro-text {
+    padding-top: 175px;
+    background-position: right bottom;
+  }
+}
   .about {
     .about-text {
       padding-bottom: 215px;
@@ -111,4 +126,29 @@ header {
       }
     }
   }
+}
+footer {
+  background-color: black;
+  color: $white;
+  p,
+  h3,
+  div {
+    text-align:left;
+  }
+  ul.social-buttons {
+    float: right;
+    li {
+      text-align:center;
+    }
+    li a {
+    color: $dark-red;
+    background-color: $white;
+
+    i {
+      font-size: 32px;
+      vertical-align: middle;
+    }
+  }
+  }
+
 }

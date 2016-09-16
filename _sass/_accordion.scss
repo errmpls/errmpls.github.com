@@ -145,3 +145,12 @@ label > span {
     content: "\f068";
   }
 }
+@media screen and (max-width: 768px) {
+  .artist-accordion ul.artist-accordion__list li label {
+    padding: 10px;
+    font-size: 14px;
+    span {
+      font-size: 26px;
+    }
+  }
+}
