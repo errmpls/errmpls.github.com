@@ -44,10 +44,6 @@ defaults:
     path: ''
     type: events
   values:
-    startDate: ''
-    endDate: ''
-    startTime: ''
-    endTime: ''
     starts_at: ''
     ends_at: ''
     event_color: ''
