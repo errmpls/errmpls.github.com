@@ -172,6 +172,9 @@ Monthly 2.0.7 by Kevin Thornbloom is licensed under a Creative Commons Attributi
 							eventURL = $(this).find('eventurl').text(),
 							eventTitle = $(this).find('name').text(),
 							eventInfo = $(this).find('info').text(), //added by shelbs
+							eventUrl = $(this).find('eventurl').text(), //added by shelbs
+							// eventUrlTitle = $(this).find('eventurltitle').text(),
+							eventLocation = $(this).find('address').text(), //added by shelbs
 							eventColor = $(this).find('color').text(),
 							eventId = $(this).find('id').text(),
 							startTime = $(this).find('starttime').text(),
@@ -214,14 +217,14 @@ Monthly 2.0.7 by Kevin Thornbloom is licensed under a Creative Commons Attributi
 								}
 								var timeHtml = startTimehtml + endTimehtml + '</div>';
 							}
-							$('#'+uniqueId+' .monthly-list-item[data-number="'+i+'"]').addClass('item-has-event').append('<a href="'+eventURL+'" class="listed-event"  data-eventid="'+ eventId +'" style="background:'+eventColor+'" title="'+eventTitle+'">'+eventTitle+' '+timeHtml+'</a> <div class="event-info">'+eventInfo+'</div>');
+							$('#'+uniqueId+' .monthly-list-item[data-number="'+i+'"]').addClass('item-has-event').append('<a target="_blank" href="'+eventURL+'" class="listed-event"  data-eventid="'+ eventId +'" style="background:'+eventColor+'" title="'+eventTitle+'">'+eventTitle+' '+timeHtml+' <div class="event-info">'+eventInfo+'</div><div class="event-location">' + eventLocation + '</div></a>');
 						}
 
 
 						// If event is one day & within month
 						if (!fullendDate && startMonth == setMonth && startYear == setYear) {
 							// Add Indicators
-							$('#'+uniqueId+' *[data-number="'+startDay+'"] .monthly-indicator-wrap').append('<div class="monthly-event-indicator"  data-eventid="'+ eventId +'" style="background:'+eventColor+'" title="'+eventTitle+'">'+eventTitle+'</div> <div class="event-info">'+eventInfo+'</div>');
+							$('#'+uniqueId+' *[data-number="'+startDay+'"] .monthly-indicator-wrap').append('<div class="monthly-event-indicator"  data-eventid="'+ eventId +'" style="background:'+eventColor+'" title="'+eventTitle+'">'+eventTitle+'</div> ');
 							// Print out event list for single day event
 							var timeHtml = '';
 							if (startTime){
@@ -232,7 +235,7 @@ Monthly 2.0.7 by Kevin Thornbloom is licensed under a Creative Commons Attributi
 								}
 								var timeHtml = startTimehtml + endTimehtml + '</div>';
 							}
-							$('#'+uniqueId+' .monthly-list-item[data-number="'+startDay+'"]').addClass('item-has-event').append('<a href="'+eventURL+'" class="listed-event"  data-eventid="'+ eventId +'" style="background:'+eventColor+'" title="'+eventTitle+'">'+eventTitle+' '+timeHtml+'</a>');
+							$('#'+uniqueId+' .monthly-list-item[data-number="'+startDay+'"]').addClass('item-has-event').append('<a target="_blank" href="'+eventURL+'" class="listed-event"  data-eventid="'+ eventId +'" style="background:'+eventColor+'" title="'+eventTitle+'">'+eventTitle+' '+timeHtml+'<div class="event-info">'+eventInfo+'</div> <div class="event-location">' + eventLocation + '</div></a>');
 
 
 						// If event is multi day & within month

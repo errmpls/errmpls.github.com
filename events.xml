@@ -14,14 +14,22 @@
 		<color>#7e3d3d</color>
     <info><p>this is info about the event</p>
 </info>
+		<eventurl>https://manage.siteleaf.com/sites/57ce2f5d0bf79d3b78b8b3d6/collections/events/new</eventurl>
+		<address></address>
 
-		
+	</event>
 
-		<eventurl></eventurl>
-		<eventurltitle></eventurltitle>
-		<eventurllogo></eventurllogo>
-
-		
+	<event>
+		<name>event title test</name>
+		<startdate>2016-09-20</startdate>
+		<enddate>2016-09-20</enddate>
+		<starttime>18:00:00</starttime>
+		<endtime>20:00:00</endtime>
+		<color>#74ecf0</color>
+    <info><p>event info tessssssssst</p>
+</info>
+		<eventurl>https://www.youtube.com/watch?v=LOZuxwVk7TU</eventurl>
+		<address>2739 Buchanan st NE Minneapolis, MN 55418</address>
 
 	</event>
 
@@ -34,14 +42,8 @@
 		<color></color>
     <info><p>info on event</p>
 </info>
-
-		
-
 		<eventurl></eventurl>
-		<eventurltitle></eventurltitle>
-		<eventurllogo></eventurllogo>
-
-		
+		<address></address>
 
 	</event>
 
@@ -54,14 +56,8 @@
 		<color></color>
     <info><p>this is info about the event</p>
 </info>
-
-		
-
 		<eventurl></eventurl>
-		<eventurltitle></eventurltitle>
-		<eventurllogo></eventurllogo>
-
-		
+		<address></address>
 
 	</event>
 
