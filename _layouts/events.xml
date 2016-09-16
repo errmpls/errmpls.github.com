@@ -13,14 +13,8 @@
 		<endtime>{{ event.ends_at | date: "%X" }}</endtime>
 		<color>{{ event.event_color }}</color>
     <info>{{ event.content }}</info>
-
-		{% for urls in event.url %}
-
-		<eventurl>{{ urls.event_url }}</eventurl>
-		<eventurltitle>{{ urls.url_title }}</eventurltitle>
-		<eventurllogo>{{ urls.url_logo_image }}</eventurllogo>
-
-		{% endfor %}
+		<eventurl>{{ event.event_url }}</eventurl>
+		<address>{{ event.address }}</address>
 
 	</event>
 {% endfor %}

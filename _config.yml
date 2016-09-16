@@ -47,13 +47,11 @@ defaults:
     starts_at: ''
     ends_at: ''
     event_color: ''
-    url:
-    - event_url: ''
-      title_OR_logo:
-      - url_title: ''
-        url_logo_image: ''
+    event_url: ''
+    address: ''
+
 url: http://www.errartistcollective.com/
-baseurl: 
+baseurl:
 email: errmpls@gmail.com
 description: Err is a Twin Cities collective hell-bent on championing emerging artists.
   We’re about getting down and lifting up. We throw art-filled parties, and make party-filled
