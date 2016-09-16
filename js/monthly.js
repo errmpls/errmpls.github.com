@@ -169,7 +169,7 @@ Monthly 2.0.7 by Kevin Thornbloom is licensed under a Creative Commons Attributi
 							endYear = endArr[0],
 							endMonth = parseInt(endArr[1], 10),
 							endDay = parseInt(endArr[2], 10),
-							eventURL = $(this).find('url').text(),
+							eventURL = $(this).find('eventurl').text(),
 							eventTitle = $(this).find('name').text(),
 							eventInfo = $(this).find('info').text(), //added by shelbs
 							eventColor = $(this).find('color').text(),
