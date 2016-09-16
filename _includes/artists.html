@@ -3,7 +3,9 @@
   <div class="container">
   <div class="artist-accordion">
     <ul class="artist-accordion__list">
-      {% for artist in site.artists %}
+
+         {% assign artists = (site.artists | sort: 'date') | reverse %}
+            {% for artist in artists %}
       <li>
         <input id="{{ forloop.index }}" type="checkbox" hidden />
         <label for="{{ forloop.index }}">
@@ -21,7 +23,7 @@
               {% else %}
 
                 {{ group.group_name }}
-              <a href="{{ group.group_url }}" target="_blank" class="fa fa-link"></a>
+              <!-- <a href="{{ group.group_url }}" target="_blank" class="fa fa-link"></a> -->
               {% endif %}
 
             <!-- </label> -->
@@ -40,7 +42,7 @@
                   {% else %}
                     {{ member.member_name }}
 
-                  <a href="{{ member.member_url }}" target="_blank" class="fa fa-link"></a>
+                  <!-- <a href="{{ member.member_url }}" target="_blank" class="fa fa-link"></a> -->
                   {% endif %}
 
                 <!-- </label> -->
@@ -59,7 +61,7 @@
               {{ individual.name }}
               {% else %}
                 {{ individual.name }}
-              <a href="{{ individual.url }}" target="_blank" class="fa fa-link"></a>
+              <!-- <a href="{{ individual.url }}" target="_blank" class="fa fa-link"></a> -->
 
               {% endif %}
 
