@@ -1,18 +1,19 @@
 ---
 title: Those Held Responsible
-date: 2016-08-16 03:47:00 Z
+date: 2016-08-15 22:47:00 -05:00
 individuals:
 - name: Airin Murphy
-  url:
-  info:
+  url: 
+  info: 
 - name: Hanna Kjedbjerg
-  url:
+  url: 
 - name: Grace Lansing
-  url:  
+  url: 
 - name: S. Fletcher
-  url:
+  url: 
 - name: V.S. Ramstack
-  url:
+  url: 
 - name: The Gentleman's Anti-Temperance League
   url: 
 ---
+

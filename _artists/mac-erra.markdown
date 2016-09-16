@@ -1,6 +1,6 @@
 ---
 title: Mac Erra
-date: 2016-07-07 03:52:00 Z
+date: 2016-07-06 22:52:00 -05:00
 groups:
 - group_name: spice girls
   group_url: http://idratherbewriting.com/2015/03/26/variables-and-conditional-processing-jekyll-versus-dita/
@@ -16,3 +16,4 @@ individuals:
 - name: eric
   url: http://idratherbewriting.com/2015/03/26/variables-and-conditional-processing-jekyll-versus-dita/
 ---
+
