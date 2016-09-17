@@ -1,6 +1,0 @@
----
-title: test
-date: 2016-08-30 19:00:00 -05:00
-layout: default
----
-
