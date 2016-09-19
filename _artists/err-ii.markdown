@@ -3,13 +3,14 @@ title: Err II
 date: 2014-11-01 18:25:00 -05:00
 individuals:
 - name: S. Fletcher
-  url:
+  url: 
 - name: Jacob Grady
-  url:
+  url: 
 - name: Airin Murphy
-  url:
+  url: 
 - name: Iris Rose Page
-  url:
+  url: 
 - name: Whitetail
   url: http://whitetailmusic.bandcamp.com/album/whitetail
 ---
+
