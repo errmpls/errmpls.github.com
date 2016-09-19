@@ -1,0 +1,83 @@
+<section id="artists" class="artists">
+  <h2 class="bg-purple">Our Artists</h2>
+  <div class="container">
+  <div class="artist-accordion">
+    <ul class="artist-accordion__list">
+
+         {% assign artists = (site.artists | sort: 'date') | reverse %}
+            {% for artist in artists %}
+      <li>
+        <input id="{{ forloop.index }}" type="checkbox" hidden />
+        <label for="{{ forloop.index }}">
+          <span class="fa fa-plus"></span>
+          {{ artist.title }}, {{ artist.date | date: "%B %d %Y" }}</label>
+        <ul class="group-list">
+          {% for group in artist.groups %}
+          <li>
+            <!-- <input id="sub-{{ forloop.index }}" type="checkbox" hidden />
+            <label for="sub-{{ forloop.index }}"> -->
+            {{ group.group_name }}
+              {% if group.group_url | length %}
+
+
+              <a href="{{ group.group_url }}" target="_blank" class="fa fa-link"></a>
+
+
+
+              {% endif %}
+
+            <!-- </label> -->
+
+            <ul>
+              {% for member in group.members %}
+              <li>
+
+                <!-- <input id="sub-sub-{{ forloop.index }}" type="checkbox" hidden />
+                <label for="sub-sub-{{ forloop.index }}"> -->
+
+                {{ member.member_name }}
+
+                  {% if member.member_url | length %}
+
+
+
+                  <a href="{{ member.member_url }}" target="_blank" class="fa fa-link"></a>
+
+
+
+
+
+
+
+                  {% endif %}
+
+                <!-- </label> -->
+              </li>
+              {% endfor %} <!-- members -->
+            </ul>
+          </li>
+
+
+          {% endfor %} <!-- groups -->
+          {% for individual in artist.individuals %}
+          <li>
+            <!-- <input id="sub-ind-{{ forloop.index }}" type="checkbox" hidden />
+            <label for="sub-ind-{{ forloop.index }}"> -->
+            {{ individual.name }}
+              {% if individual.url | length %}
+
+              <a href="{{ individual.url }}" target="_blank" class="fa fa-link"></a>
+
+
+
+              {% endif %}
+
+            <!-- </label> -->
+          </li>
+          {% endfor %} <!-- individual -->
+        </ul>
+      </li>
+      {% endfor %} <!-- artists -->
+    </ul>
+  </div>
+  </section>
