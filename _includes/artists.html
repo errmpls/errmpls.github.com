@@ -16,14 +16,14 @@
           <li>
             <!-- <input id="sub-{{ forloop.index }}" type="checkbox" hidden />
             <label for="sub-{{ forloop.index }}"> -->
-              {% if group.group_url == '' %}
+            {{ group.group_name }}
+              {% if group.group_url | length %}
 
-              {{ group.group_name }}
 
-              {% else %}
+              <a href="{{ group.group_url }}" target="_blank" class="fa fa-link"></a>
 
-                {{ group.group_name }}
-              <!-- <a href="{{ group.group_url }}" target="_blank" class="fa fa-link"></a> -->
+
+
               {% endif %}
 
             <!-- </label> -->
@@ -35,14 +35,20 @@
                 <!-- <input id="sub-sub-{{ forloop.index }}" type="checkbox" hidden />
                 <label for="sub-sub-{{ forloop.index }}"> -->
 
-                  {% if member.member_url == '' %}
+                {{ member.member_name }}
 
-                  {{ member.member_name }}
+                  {% if member.member_url | length %}
 
-                  {% else %}
-                    {{ member.member_name }}
 
-                  <!-- <a href="{{ member.member_url }}" target="_blank" class="fa fa-link"></a> -->
+
+                  <a href="{{ member.member_url }}" target="_blank" class="fa fa-link"></a>
+
+
+
+
+
+
+
                   {% endif %}
 
                 <!-- </label> -->
@@ -52,16 +58,17 @@
           </li>
 
 
-          {% endfor %} <!-- groups test-->
+          {% endfor %} <!-- groups -->
           {% for individual in artist.individuals %}
           <li>
             <!-- <input id="sub-ind-{{ forloop.index }}" type="checkbox" hidden />
             <label for="sub-ind-{{ forloop.index }}"> -->
-              {% if individual.url == "" %}
-              {{ individual.name }}
-              {% else %}
-                {{ individual.name }}
-              <!-- <a href="{{ individual.url }}" target="_blank" class="fa fa-link"></a> -->
+            {{ individual.name }}
+              {% if individual.url | length %}
+
+              <a href="{{ individual.url }}" target="_blank" class="fa fa-link"></a>
+
+
 
               {% endif %}
 

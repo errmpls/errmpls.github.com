@@ -11,10 +11,10 @@
   visibility: hidden;
 }
 .artist-accordion {
+  li ul.group-list {
+    background: $opaque-blue;
+  }
   ul {
-    &:first-child {
-      background: $opaque-blue;
-    }
     padding: 0;
 
 
@@ -31,6 +31,7 @@
           a {
           display: inline-block;
           color: $black;
+          // text-decoration: underline;
         }
 
         ul li { padding-left: 50px;}

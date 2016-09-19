@@ -1,17 +1,15 @@
 ---
 title: Err I
 date: 2014-10-01 18:22:00 -05:00
-position: 1
 individuals:
 - name: Tim Schumacher
-  url: 
+  url:
 - name: V.S. Ramstack
   url: https://hellosundress.wordpress.com/
 - name: Matthew McGuire
-  url: 
+  url:
 - name: Taylor Hammes
-  url: 
+  url:
 - name: Kellie Reichert and Jake Rohde (from Peregrine Perspective)
-  url: 
+  url:
 ---
-
