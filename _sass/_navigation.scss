@@ -52,6 +52,11 @@
     }
   }
 }
+@media screen and (max-width: 768px) {
+  .navbar.navbar-shrink a.navbar-brand img {
+    vertical-align: top;
+  }
+}
 @media screen and (max-width: 1029px) {
   .navbar .nav li a {
     font-size: 12px;

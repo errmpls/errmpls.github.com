@@ -14,16 +14,12 @@
         <ul class="group-list">
           {% for group in artist.groups %}
           <li>
-            <!-- <input id="sub-{{ forloop.index }}" type="checkbox" hidden />
-            <label for="sub-{{ forloop.index }}"> -->
-            {{ group.group_name }}
+
+
               {% if group.group_url | length %}
-
-
-              <a href="{{ group.group_url }}" target="_blank" class="fa fa-link"></a>
-
-
-
+              <a href="{{ group.group_url }}" target="_blank">{{ group.group_name }}</a>
+              {% else %}
+              {{ group.group_name }}
               {% endif %}
 
             <!-- </label> -->
@@ -32,23 +28,12 @@
               {% for member in group.members %}
               <li>
 
-                <!-- <input id="sub-sub-{{ forloop.index }}" type="checkbox" hidden />
-                <label for="sub-sub-{{ forloop.index }}"> -->
 
-                {{ member.member_name }}
 
                   {% if member.member_url | length %}
-
-
-
-                  <a href="{{ member.member_url }}" target="_blank" class="fa fa-link"></a>
-
-
-
-
-
-
-
+                  <a href="{{ member.member_url }}" target="_blank">{{ member.member_name }}</a>
+                  {% else %}
+                  {{ member.member_name }}
                   {% endif %}
 
                 <!-- </label> -->
@@ -61,15 +46,12 @@
           {% endfor %} <!-- groups -->
           {% for individual in artist.individuals %}
           <li>
-            <!-- <input id="sub-ind-{{ forloop.index }}" type="checkbox" hidden />
-            <label for="sub-ind-{{ forloop.index }}"> -->
-            {{ individual.name }}
+
+
               {% if individual.url | length %}
-
-              <a href="{{ individual.url }}" target="_blank" class="fa fa-link"></a>
-
-
-
+              <a href="{{ individual.url }}" target="_blank">{{ individual.name }}</a>
+              {% else %}
+              {{ individual.name }}
               {% endif %}
 
             <!-- </label> -->

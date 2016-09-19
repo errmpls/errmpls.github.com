@@ -22,6 +22,7 @@
 
       li {
         line-height: 30px;
+        padding-right: 10px;
       }
 
 
@@ -29,9 +30,8 @@
       > li:last-child {padding-bottom: 20px;}
         padding-left: 40px;
           a {
-          display: inline-block;
           color: $black;
-          // text-decoration: underline;
+          text-decoration: underline;
         }
 
         ul li { padding-left: 50px;}
