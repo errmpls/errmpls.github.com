@@ -12,6 +12,6 @@ individuals:
 - name: Iris Rose Page
   url: 
 - name: Whitetail
-  url: 
+  url: http://whitetailmusic.bandcamp.com/album/whitetail
 ---
 
