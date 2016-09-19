@@ -6,7 +6,7 @@ individuals:
 - name: Tim Schumacher
   url: 
 - name: V.S. Ramstack
-  url: 
+  url: https://hellosundress.wordpress.com/
 - name: Matthew McGuire
   url: 
 - name: Taylor Hammes
