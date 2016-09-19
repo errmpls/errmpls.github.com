@@ -1,4 +1,30 @@
----
-layout: events
----
+<?xml version="1.0"?>
+<!-- <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <atom:link href="http://www.errartistcollective.com/calendar.xml" rel="self" type="application/rss+xml" /> -->
 
+<monthly>
+
+
+	<event>
+		<name>Err XVIII</name>
+		<startdate>2016-09-21</startdate>
+		<enddate>2016-09-21</enddate>
+		<starttime>19:30:00</starttime>
+		<endtime>22:30:00</endtime>
+		<color>#f07490</color>
+    <info><p>Featuring:
+Writing from Joseph Wise, Dustan Pinlac, and Marlee Leebrick-Stryker
+Visual art from Austin Odom
+A performance from Micheal Rogers
+&amp; music by Isaac Hill and The Carnivorous Birds and Lucid VanGuard</p>
+
+<p>$5 cover at the door
+First 50 people who arrive get a free zine!</p>
+</info>
+		<eventurl>https://www.facebook.com/events/512923628896829/</eventurl>
+		<address>Vieux Carré, 408 St Peter St., St Paul, MN 55102</address>
+
+	</event>
+
+
+</monthly>
