@@ -50,7 +50,7 @@ defaults:
     event_url: ''
     address: ''
 url: http://www.errartistcollective.com/
-baseurl: 
+baseurl:
 email: errmpls@gmail.com
 description: Err is a Twin Cities collective hell-bent on championing emerging artists.
   We’re about getting down and lifting up. We throw art-filled parties, and make party-filled
@@ -78,6 +78,8 @@ social:
   url: https://www.facebook.com/ErrMN/
 - title: instagram
   url: https://www.instagram.com/errmpls/
+- title: tumblr
+  url: http://err-mpls.tumblr.com/
 address:
 - line: 3481 Melrose Place
 - line: Beverly Hills, CA 90210

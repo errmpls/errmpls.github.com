@@ -2,12 +2,13 @@ h1, h2, h3, h4, h5, h6,
 .navbar-default .nav li a {
   font-family: "albert";
   text-transform: none;
+  font-weight: 400;
 }
 h2 {
   color: $cream;
   text-align: center;
   padding: 20px;
-  font-size: 33px;
+  font-size: 30px;
   margin: 0;
 }
 section {
@@ -78,11 +79,12 @@ section {
   .col-md-6 {
     padding: 0;
   }
-  img {
-    width: 100%;
-  }
   h5 {
     color: $cream;
+    a {
+      color: $gray-purple;
+      font-family: "albert";
+    }
   }
 }
 header {
@@ -95,10 +97,11 @@ header {
     padding-top: 130px;
 
     h3 {
-      font-size: 42px;
+      font-size: 38px;
+      color: $dark-blue;
     }
     p {
-      font-size: 30px;
+      font-size: 22px;
       line-height: 33px;
     }
   }
@@ -123,11 +126,16 @@ header {
       padding-bottom: 215px;
 
       p {
-        font-size: 25px;
+        font-size: 20px;
         line-height: 30px;
         margin-top: 45px;
       }
     }
+  }
+}
+@media(min-width:480px) {
+  .archive img {
+    width: 100%;
   }
 }
 footer {
