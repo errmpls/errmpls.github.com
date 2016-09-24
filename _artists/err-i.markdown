@@ -1,6 +1,6 @@
 ---
-title: Err I, October 2014
-published: false
+title: Err I
+date: 2016-10-20 00:00:00 -05:00
 individuals:
 - name: Tim Schumacher
   url: 
