@@ -1,6 +1,5 @@
 ---
 title: Err IX
-date: 2016-09-23 23:05:00 -05:00
 individuals:
 - name: Maya Beck
   url: 
