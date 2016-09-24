@@ -1,6 +1,5 @@
 ---
 title: Err X
-date: 2016-09-23 23:07:00 -05:00
 individuals:
 - name: Kerry Jade Aberman
   url: 
