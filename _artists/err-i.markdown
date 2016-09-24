@@ -1,6 +1,5 @@
 ---
 title: Err I
-date: 2014-10-01 22:40:00 -05:00
 permalink: https://www.facebook.com/events/699826150098635/
 individuals:
 - name: Tim Schumacher
