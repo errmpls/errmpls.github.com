@@ -1,5 +1,6 @@
 ---
 title: Err III, December 2014
+published: false
 groups:
 - group_name: Hanna Kjeldbjerg
   members:
