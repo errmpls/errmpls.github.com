@@ -1,5 +1,5 @@
 ---
-title: Err Vi
+title: Err VI
 individuals:
 - name: Kat Klima
   url: 
