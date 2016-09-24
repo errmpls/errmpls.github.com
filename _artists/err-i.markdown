@@ -12,6 +12,6 @@ individuals:
   url: 
 - name: Kellie Reichert and Jake Rohde (from Peregrine Perspective)
   url: 
-layout: about
+layout: artists
 ---
 
