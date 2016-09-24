@@ -1,5 +1,6 @@
 ---
-title: AWP Offsite Event, Those Held Responsible
+title: Err XVII, AWP Offsite Event
+position: 6
 individuals:
 - name: Airin Murphy
   url: 

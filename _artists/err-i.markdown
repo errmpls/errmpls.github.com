@@ -1,6 +1,7 @@
 ---
 title: Err I
 permalink: https://www.facebook.com/events/699826150098635/
+position: 0
 individuals:
 - name: Tim Schumacher
   url: 

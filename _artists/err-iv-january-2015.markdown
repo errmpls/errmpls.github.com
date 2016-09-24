@@ -1,5 +1,6 @@
 ---
 title: Err IV
+position: 3
 individuals:
 - name: Graham Smith
   url: 
