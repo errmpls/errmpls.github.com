@@ -1,5 +1,6 @@
 ---
 title: Err I, October 2014
+published: false
 individuals:
 - name: Tim Schumacher
   url: 
