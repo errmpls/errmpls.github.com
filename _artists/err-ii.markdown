@@ -1,6 +1,5 @@
 ---
-title: Err II, November 14
-published: false
+title: Err II
 individuals:
 - name: S. Fletcher
   url: 

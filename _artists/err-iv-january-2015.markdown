@@ -1,6 +1,5 @@
 ---
-title: Err IV, January 2015
-published: false
+title: Err IV
 individuals:
 - name: Graham Smith
   url: 
