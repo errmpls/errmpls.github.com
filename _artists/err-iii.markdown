@@ -13,5 +13,6 @@ individuals:
   url: https://www.facebook.com/rhialize/?fref=ts
 - name: Grace Lansing and Libby Borchert
   url: 
+layout: artists
 ---
 
