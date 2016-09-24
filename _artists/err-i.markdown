@@ -1,5 +1,5 @@
 ---
-title: Err I
+title: Err I, October 2014
 date: 2014-10-01 18:22:00 -05:00
 individuals:
 - name: Tim Schumacher
