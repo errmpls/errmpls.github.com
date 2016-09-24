@@ -1,5 +1,5 @@
 ---
-title: AWP Offsite Event, Those Held Responsible
+title: AWP Offsite Event, XVII
 position: 6
 individuals:
 - name: Airin Murphy
