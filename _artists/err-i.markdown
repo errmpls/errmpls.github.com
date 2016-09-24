@@ -1,6 +1,7 @@
 ---
 title: Err I
-date: 2016-10-20 00:00:00 -05:00
+date: 2014-10-01 22:40:00 -05:00
+permalink: https://www.facebook.com/events/699826150098635/
 individuals:
 - name: Tim Schumacher
   url: 
@@ -12,5 +13,6 @@ individuals:
   url: 
 - name: Kellie Reichert and Jake Rohde (from Peregrine Perspective)
   url: 
+layout: about
 ---
 
