@@ -1,6 +1,6 @@
 ---
 title: Err X
-position: 9
+position: 7
 individuals:
 - name: Kerry Jade Aberman
   url: 

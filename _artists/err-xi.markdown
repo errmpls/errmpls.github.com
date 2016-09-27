@@ -1,6 +1,6 @@
 ---
 title: Err XI
-position: 10
+position: 8
 groups:
 - group_name: "“Drawn Together” "
   members:
