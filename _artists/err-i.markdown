@@ -1,6 +1,6 @@
 ---
 title: Err I
-position: 0
+position: 13
 individuals:
 - name: Tim Schumacher
   url: 
