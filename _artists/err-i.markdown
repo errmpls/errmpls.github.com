@@ -1,6 +1,6 @@
 ---
 title: Err I
-date: 2016-09-26 20:00:00 -05:00
+date: 2014-10-01 20:00:00 -05:00
 permalink: https://www.facebook.com/events/699826150098635/
 position: 0
 individuals:
