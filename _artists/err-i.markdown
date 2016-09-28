@@ -1,5 +1,5 @@
 ---
-title: 1) Err I
+title: Err I
 position: 0
 individuals:
 - name: Tim Schumacher
