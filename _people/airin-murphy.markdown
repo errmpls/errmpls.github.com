@@ -1,7 +1,8 @@
 ---
 title: Airin Murphy
 date: 2016-09-11 20:55:00 -05:00
-image: "/uploads/Photo-7-Erin-e43194.png"
+position: 6
+image: "/uploads/Photo-7-Erin-a0593c.png"
 img-alt: Airin Murphy
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Kellie Reichert
 date: 2016-09-11 21:03:00 -05:00
+position: 3
 image: "/uploads/Photo-4-Kellie-fe0d93.png"
 img-alt: 'Kellie Reichert '
 ---
