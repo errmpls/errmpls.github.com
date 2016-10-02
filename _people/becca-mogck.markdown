@@ -1,6 +1,7 @@
 ---
 title: Becca Mogck
 date: 2016-09-11 21:05:00 -05:00
+position: 1
 image: "/uploads/Photo-6-Becca.png"
 img-alt: Becca Mogck
 ---

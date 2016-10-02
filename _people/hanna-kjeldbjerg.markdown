@@ -1,6 +1,7 @@
 ---
 title: Hanna Kjeldbjerg
 date: 2016-09-06 13:53:00 -05:00
+position: 0
 image: "/uploads/Photo-1-Hanna.png"
 img-alt: Hanna Kjeldbjerg
 ---
