@@ -2,7 +2,7 @@
 title: 'Err Turns Two: Blowout Bash'
 date: 2016-10-09 15:12:00 -05:00
 starts_at: 2016-10-26 19:00:00 -05:00
-ends_at: 2016-10-27 01:00:00 -05:00
+ends_at: 2016-10-26 01:00:00 -05:00
 event_color: "#e47474"
 event_url: https://www.facebook.com/events/642462869250977/
 address: |-
