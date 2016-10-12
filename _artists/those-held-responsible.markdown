@@ -1,6 +1,6 @@
 ---
 title: Those Held Responsible
-position: 10
+position: 9
 individuals:
 - name: Grace Lansing
   url: 

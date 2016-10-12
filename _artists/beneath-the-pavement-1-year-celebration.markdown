@@ -1,5 +1,5 @@
 ---
 title: Beneath the Pavement, 1-year Celebration
-position: 9
+position: 7
 ---
 
