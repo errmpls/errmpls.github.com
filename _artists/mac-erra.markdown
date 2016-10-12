@@ -1,5 +1,5 @@
 ---
-title: Mac Erra
+title: Mac Erra, July 2016
 position: 5
 individuals:
 - name: King October
