@@ -1,6 +1,6 @@
 ---
 title: Err V
-position: 1
+position: 9
 individuals:
 - name: Hasani Harris
   url: https://soundcloud.com/ahhsin

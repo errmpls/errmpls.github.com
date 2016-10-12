@@ -1,6 +1,6 @@
 ---
 title: Err IX
-position: 5
+position: 3
 individuals:
 - name: Maya Beck
   url: 
