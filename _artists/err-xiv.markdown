@@ -1,5 +1,5 @@
 ---
-title: Err XIV March 2016
+title: Err XIV, March 2016
 position: 9
 groups:
 - group_name: Sister Calypso
