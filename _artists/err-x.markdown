@@ -1,5 +1,5 @@
 ---
-title: Err X
+title: Err X, July 2015
 position: 16
 individuals:
 - name: Kerry Jade Aberman
