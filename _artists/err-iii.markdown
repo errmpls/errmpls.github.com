@@ -1,6 +1,6 @@
 ---
 title: Err III
-position: 16
+position: 23
 groups:
 - group_name: Hanna Kjeldbjerg
   members:

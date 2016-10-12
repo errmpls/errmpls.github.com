@@ -1,6 +1,6 @@
 ---
 title: Err II
-position: 17
+position: 24
 individuals:
 - name: S. Fletcher
   url: 

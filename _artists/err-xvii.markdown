@@ -1,5 +1,6 @@
 ---
 title: Err XVII
+position: 6
 individuals:
 - name: Meaghan Murray
   url: 
