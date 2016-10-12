@@ -1,5 +1,5 @@
 ---
-title: Beneath the Pavement, 1-year Celebration
+title: Beneath the Pavement, September 2015 (1-year Celebration)
 position: 14
 ---
 
