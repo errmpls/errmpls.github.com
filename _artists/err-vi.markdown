@@ -1,6 +1,6 @@
 ---
 title: Err VI
-position: 7
+position: 9
 individuals:
 - name: Kat Klima
   url: 
