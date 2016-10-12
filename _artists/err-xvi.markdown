@@ -1,6 +1,5 @@
 ---
 title: Err XVI
-date: 2016-10-11 21:49:00 -05:00
 position: 0
 groups:
 - group_name: Judy Gloom
