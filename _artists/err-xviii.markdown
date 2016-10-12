@@ -1,5 +1,6 @@
 ---
 title: Err XVIII
+position: 1
 individuals:
 - name: Dunstan Pinlac
   url: 

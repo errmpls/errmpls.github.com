@@ -1,5 +1,6 @@
 ---
 title: 'Err Turns Two: Music Night'
+position: 0
 individuals:
 - name: Hello Como
   url: http://www.hellocomo.com/

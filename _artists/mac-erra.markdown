@@ -1,6 +1,6 @@
 ---
 title: Mac Erra
-position: 0
+position: 2
 individuals:
 - name: King October
   url: 

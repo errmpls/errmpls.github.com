@@ -1,6 +1,6 @@
 ---
 title: Err XIII
-position: 6
+position: 8
 groups:
 - group_name: DIE WEIRE ROSE
   group_url: 
