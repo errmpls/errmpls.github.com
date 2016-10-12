@@ -1,5 +1,5 @@
 ---
-title: Err XI
+title: Err XI, August 2015
 position: 15
 groups:
 - group_name: "“Drawn Together” "

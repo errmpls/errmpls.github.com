@@ -1,5 +1,5 @@
 ---
-title: Err XVIII
+title: Err XVIII, September 2016
 position: 4
 individuals:
 - name: Dunstan Pinlac
