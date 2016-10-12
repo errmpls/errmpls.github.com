@@ -1,7 +1,7 @@
 ---
 title: AstroLounge, Art Shanty Projects
 date: 2016-10-11 21:41:00 -05:00
-position: 2
+position: 3
 individuals:
 - name: Rachel Mogck
   url: 
