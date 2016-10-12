@@ -1,5 +1,5 @@
 ---
-title: Err XVII
+title: Err XVII, June 2016
 position: 6
 individuals:
 - name: Meaghan Murray
