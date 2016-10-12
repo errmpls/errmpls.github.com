@@ -1,5 +1,5 @@
 ---
-title: Err II
+title: Err II, November 2014
 position: 24
 individuals:
 - name: S. Fletcher
