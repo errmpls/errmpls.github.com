@@ -1,6 +1,7 @@
 ---
 title: Mac Erra
 date: 2016-10-11 22:36:00 -05:00
+position: 0
 individuals:
 - name: King October
   url: 

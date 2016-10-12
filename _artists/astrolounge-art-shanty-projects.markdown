@@ -1,6 +1,6 @@
 ---
 title: AstroLounge, Art Shanty Projects
-position: 3
+position: 5
 individuals:
 - name: Rachel Mogck
   url: 
