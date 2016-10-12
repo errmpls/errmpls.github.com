@@ -1,6 +1,6 @@
 ---
 title: Err X
-position: 3
+position: 9
 individuals:
 - name: Kerry Jade Aberman
   url: 
@@ -9,7 +9,7 @@ individuals:
 - name: Alec Berry
   url: 
 - name: Mona Omni Negasi
-  url: 
+  url: http://monanegasi.wixsite.com/artwork
 - name: Smokin’ Joe Scarpellino
   url: www.reverbnation.com/smokinjoeiowa
 - name: Sawed-off String Band
