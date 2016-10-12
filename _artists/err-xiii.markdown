@@ -1,6 +1,5 @@
 ---
 title: Err XIII
-date: 2016-10-11 21:36:00 -05:00
 groups:
 - group_name: DIE WEIRE ROSE
   group_url: 
