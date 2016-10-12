@@ -1,5 +1,5 @@
 ---
-title: Err I
+title: Err I, October 2014
 position: 25
 individuals:
 - name: Tim Schumacher
