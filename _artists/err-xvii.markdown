@@ -13,7 +13,7 @@ individuals:
 - name: 'The Enigmaknots '
   url: https://www.facebook.com/enigmaknots/
 - name: Prate
-  url: 
+  url: 'soundcloud.com/pratedgaf '
 - name: Ali Sultan and Angelo Vesio (the Vesh)
   url: 
 ---
