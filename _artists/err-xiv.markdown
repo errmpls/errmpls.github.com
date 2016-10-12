@@ -1,6 +1,5 @@
 ---
 title: Err XIV
-date: 2016-10-11 21:44:00 -05:00
 position: 2
 groups:
 - group_name: Sister Calypso
