@@ -1,6 +1,5 @@
 ---
 title: 'Err Turns Two: Blowout Bash'
-date: 2016-10-11 23:08:00 -05:00
 position: 0
 individuals:
 - name: King October
