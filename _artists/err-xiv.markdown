@@ -1,6 +1,6 @@
 ---
 title: Err XIV
-position: 6
+position: 9
 groups:
 - group_name: Sister Calypso
   group_url: http://sister-calypso.bandcamp.com/
