@@ -1,6 +1,6 @@
 ---
 title: Err XII
-position: 10
+position: 8
 individuals:
 - name: Aaron Levy
   url: 
