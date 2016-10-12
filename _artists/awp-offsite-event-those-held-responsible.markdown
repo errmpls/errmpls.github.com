@@ -1,6 +1,6 @@
 ---
 title: Err XVII, AWP Offsite Event
-position: 8
+position: 11
 individuals:
 - name: Airin Murphy
   url: 

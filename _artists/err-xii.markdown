@@ -1,7 +1,7 @@
 ---
 title: Err XII
 date: 2016-10-11 21:24:00 -05:00
-position: 1
+position: 4
 individuals:
 - name: Aaron Levy
   url: 
