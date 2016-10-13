@@ -4,8 +4,8 @@
   <div class="artist-accordion">
     <ul class="artist-accordion__list">
 
-         {% assign artists = (site.artists | sort: 'date') | reverse %}
-            {% for artist in artists %}
+         <!-- {% assign artists = (site.artists | sort: 'date') | reverse %} -->
+            {% for artist in site.artists %}
       <li>
         <input id="{{ forloop.index }}" type="checkbox" hidden />
         <label for="{{ forloop.index }}">
