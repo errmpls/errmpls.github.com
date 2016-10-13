@@ -6,7 +6,7 @@ individuals:
   url: 
 - name: Mario Stokes
   url: 
-- name: Mandy Dahleimer
+- name: Mandy Dahlheimer
   url: 
 - name: Misha Estrin
   url: 
