@@ -4,13 +4,13 @@
   <div class="artist-accordion">
     <ul class="artist-accordion__list">
 
-         <!-- {% assign artists = (site.artists | sort: 'date') | reverse %} -->
-            {% for artist in site.artists %}
+         {% assign artists = site.artists | sort: 'position' %}
+            {% for artist in artists %}
       <li>
         <input id="{{ forloop.index }}" type="checkbox" hidden />
         <label for="{{ forloop.index }}">
           <span class="fa fa-plus"></span>
-          {{ artist.title }}, {{ artist.date | date: "%B %d %Y" }}</label>
+          {{ artist.title }}</label>
         <ul class="group-list">
           {% for group in artist.groups %}
           <li>
