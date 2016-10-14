@@ -8,6 +8,10 @@
 	-ms-user-select: none;
 	user-select: none;
 	position: relative;
+
+	a {
+		color: $black;
+	}
 }
 
 /* Contains title & nav */
