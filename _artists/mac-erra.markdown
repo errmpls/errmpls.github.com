@@ -1,6 +1,6 @@
 ---
 title: Mac Erra, July 2016
-position: 5
+position: 6
 individuals:
 - name: King October
   url: 

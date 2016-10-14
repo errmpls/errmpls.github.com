@@ -1,6 +1,6 @@
 ---
 title: Err V, February 2015
-position: 21
+position: 22
 individuals:
 - name: Hasani Harris
   url: https://soundcloud.com/ahhsin

@@ -1,6 +1,6 @@
 ---
 title: Err IX, June 2015
-position: 17
+position: 18
 individuals:
 - name: Maya Beck
   url: 

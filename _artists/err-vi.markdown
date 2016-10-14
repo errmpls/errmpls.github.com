@@ -1,6 +1,6 @@
 ---
 title: Err VI, March 2015
-position: 20
+position: 21
 individuals:
 - name: Kat Klima
   url: 
@@ -14,7 +14,7 @@ individuals:
   url: 
 - name: Fletcher Magellan
   url: http://fletchermagellan.bandcamp.com
-- name: The Gentleman’s Anti-Temperance League
+- name: The Gentlemen’s Anti-Temperance League
   url: http://www.thegatl.com/
 ---
 
