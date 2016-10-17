@@ -1,0 +1,168 @@
+h1, h2, h3, h4, h5, h6,
+.navbar-default .nav li a {
+  font-family: "albert";
+  text-transform: none;
+  font-weight: 400;
+}
+a {
+  color: $white;
+}
+h2 {
+  color: $cream;
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+  margin: 0;
+}
+section {
+  padding: 0 0 67px;
+
+
+  .container {
+    padding: 50px 0;
+  }
+
+  &.about {
+    background: url("/img/AboutPage-Background.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  }
+  &.people {
+    .former-members {
+      color: $white;
+
+    }
+    background-color: $black;
+
+    .people-container {
+      max-width: 1170px;
+      width: auto;
+      margin: 0 auto;
+      text-align:center;
+    }
+
+    h3 {
+      margin-top:40px;
+      color: $gray-purple;
+    }
+  }
+  &.artists {
+    background: url("/img/THRPage-Background.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+  &.calendar {
+    background: url("/img/CalenderPage-Background.jpg") no-repeat center center ;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+  &.contact {
+    background: url("/img/SubmitPage-Background.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+  &.archive {
+    background-color: $black;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+}
+.archive {
+  .col-md-6 {
+    padding: 0;
+  }
+  h5 {
+    color: $cream;
+    a {
+      color: $gray-purple;
+      font-family: "albert";
+    }
+  }
+}
+header {
+  text-align: left;
+  color: $black;
+  background: url('/img/HomePage-Background.jpg') no-repeat right top;
+  background-size: auto 100%;
+
+  .intro-text {
+    padding-top: 130px;
+
+    h3 {
+      font-size: 38px;
+      color: $dark-blue;
+    }
+    p {
+      font-size: 22px;
+      line-height: 33px;
+    }
+  }
+}
+
+.table {
+  display: table;
+  margin: 0 auto;
+}
+@media(min-width:768px) {
+  header {
+    background-size: cover;
+
+
+  .intro-text {
+    padding-top: 175px;
+    background-position: right bottom;
+  }
+}
+  .about {
+    .about-text {
+      padding-bottom: 215px;
+
+      p {
+        font-size: 20px;
+        line-height: 30px;
+        margin-top: 45px;
+      }
+    }
+  }
+}
+@media(min-width:480px) {
+  .archive img {
+    width: 100%;
+  }
+}
+footer {
+  background-color: black;
+  color: $white;
+  p,
+  h3,
+  div {
+    text-align:left;
+  }
+  ul.social-buttons {
+    float: right;
+    li {
+      text-align:center;
+    }
+    li a {
+    color: $dark-red;
+    background-color: $white;
+
+    i {
+      font-size: 32px;
+      vertical-align: middle;
+    }
+  }
+  }
+
+}
