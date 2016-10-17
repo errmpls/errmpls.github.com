@@ -10,33 +10,6 @@ address: |-
   205 E Hennepin Ave, Minneapolis, Minnesota 55414
 ---
 
-For the final of four nights of entertainment this month, all that art is culminating with one big blowout party to ring in the end of our book Kickstarter.
+10 writers. 3 bands. 2 live visual artists. 1 epic night at Honey in Minneapolis .
+--For more information, visit https://www.facebook.com/events/642462869250977/--
 
-We've featured over one hundred artists, and now we're publishing an anthology of every artist we've featured over the last two years.
-
-Join us at honey mpls to celebrate all that we've been and all that is to come, with many special performances from Err featured artists, including
-
-Words by:
-
-King October
-Meaghan Murray
-Gordon W. Fredrickson
-Zachary Flessert
-Sanaphay Rattanavong
-Terry Scott Niebeling
-Taylor Trauger
-Grace Jordan
-Ashley Mari
-Erik Dosedel
-
-Art by:
-
-Rhialize
-Nick Vanderloop
-
-Music by:
-
-People WILL Dance + AAHSIN + OKnice
-Sonic Intension
-Vibe Corp.
-...and more!
