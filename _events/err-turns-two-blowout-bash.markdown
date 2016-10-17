@@ -12,5 +12,4 @@ address: |-
 
 10 writers. 3 bands. 2 live visual artists. 1 epic night at Honey in Minneapolis.
 
---For more information, visit https://www.facebook.com/events/642462869250977/--
-
+--For more information, visit https://www.facebook.com/events/642462869250977/--![14589936_810663799075972_4981810256494734224_o.jpg](/uploads/14589936_810663799075972_4981810256494734224_o.jpg)
