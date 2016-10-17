@@ -10,8 +10,6 @@ address: |-
   3730 Chicago Ave, Minneapolis, Minnesota 55407
 ---
 
-For the third of four nights of entertainment this month, Err invites YOU to take the stage at our open mic night.
+Err invites YOU to take the stage at our open mic night. Sign up begins at 7:30 p.m., show starts at 8:00 p.m. Featuring a special set by The Peace Life to close the night!
 
-Sign up begins at 7:30 p.m., show starts at 8:00 p.m.
-
-Featuring a special set by The Peace Life to close the night!
+--For more information, visit https://www.facebook.com/events/1838636819703484/permalink/1841997999367366/
