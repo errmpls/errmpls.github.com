@@ -10,6 +10,7 @@ address: |-
   205 E Hennepin Ave, Minneapolis, Minnesota 55414
 ---
 
-10 writers. 3 bands. 2 live visual artists. 1 epic night at Honey in Minneapolis .
+10 writers. 3 bands. 2 live visual artists. 1 epic night at Honey in Minneapolis.
+
 --For more information, visit https://www.facebook.com/events/642462869250977/--
 
