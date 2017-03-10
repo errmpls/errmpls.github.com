@@ -1,4 +1,6 @@
-
+.slick-prev:before, .slick-next:before {
+  color: $dark-red !important;
+}
 .navbar {
   background-color: $black;
   border-bottom: solid 10px $dark-red;

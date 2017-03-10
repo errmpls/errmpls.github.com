@@ -1,15 +1,15 @@
 <section id="book" class="book">
   <h2 class="bg-blue"><em>Err: Volume One</em></h2>
   <div class="container">
-    <div class="col-md-6">
+
       {% for book in site.books %}
-      <div class="book-slider">
+      <div class="book-slider col-md-4">
         {% for image in book.images %}
-        <div><img src="{{ images.image }}" class="img-responsive" alt="{{ images.img-alt }}"></div>
+        <div><img src="{{ image.image }}" class="img-responsive" alt="{{ image.img-alt }}"></div>
         {% endfor %}
       </div>
-    </div>
-  <div class="col-md-6">
+
+  <div class="col-md-8">
     {{ book.content }}
     {% endfor %}
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
