@@ -17,7 +17,7 @@ collections:
   archive:
     title: archive
     output: true
-  events:
+  books:
     title: books
     output: true
 defaults:
@@ -42,13 +42,6 @@ defaults:
     img-alt: ''
 - scope:
     path: ''
-    type: books
-  values:
-    images:
-    - image: ''
-      img-alt: ''
-- scope:
-    path: ''
     type: events
   values:
     starts_at: ''
@@ -56,8 +49,15 @@ defaults:
     event_color: ''
     event_url: ''
     address: ''
+- scope:
+    path: ''
+    type: books
+  values:
+    images:
+    - image: ''
+      img-alt: ''
 url: http://www.errartistcollective.com/
-baseurl: 
+baseurl:
 email: errmpls@gmail.com
 description: Err is a Twin Cities collective hell-bent on championing emerging artists.
   We’re about getting down and lifting up. We throw art-filled parties, and make party-filled
