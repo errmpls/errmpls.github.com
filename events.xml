@@ -1,4 +1,215 @@
----
-layout: events
----
+<?xml version="1.0"?>
+<!-- <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <atom:link href="http://www.errartistcollective.com/calendar.xml" rel="self" type="application/rss+xml" /> -->
 
+<monthly>
+
+
+	<event>
+		<name>Err XVIII</name>
+		<startdate>2016-09-21</startdate>
+		<enddate>2016-09-21</enddate>
+		<starttime>19:30:00</starttime>
+		<endtime>22:30:00</endtime>
+		<color>#f07490</color>
+    <info><p>Featuring:
+Writing from Joseph Wise, Dustan Pinlac, and Marlee Leebrick-Stryker
+Visual art from Austin Odom
+A performance from Micheal Rogers
+&amp; music by Isaac Hill and The Carnivorous Birds and Lucid VanGuard</p>
+
+<p>$5 cover at the door
+First 50 people who arrive get a free zine!</p>
+</info>
+		<eventurl>https://www.facebook.com/events/512923628896829/</eventurl>
+		<address>Vieux Carré, 408 St Peter St., St Paul, MN 55102</address>
+
+	</event>
+
+	<event>
+		<name>Err Turns Two: Performance Night</name>
+		<startdate>2016-10-12</startdate>
+		<enddate>2016-10-12</enddate>
+		<starttime>19:00:00</starttime>
+		<endtime>23:00:00</endtime>
+		<color>#d77a7a</color>
+    <info><p>Featuring performances by:
+Eric Larson
+Misha Estrin
+Joey Hamburger
+Janet Preus with Tim Andersen
+Angelo Vescio
+Madeline Fleming</p>
+
+<p>Closing with a musical set by Turn Back Now!</p>
+
+<p>No Cover
+21+</p>
+</info>
+		<eventurl>https://www.facebook.com/events/340846936255779/</eventurl>
+		<address>Amsterdam Bar and Hall
+6th St W at Wabasha St N, Saint Paul, Minnesota 55102</address>
+
+	</event>
+
+	<event>
+		<name>Err Turns Two: Music Night</name>
+		<startdate>2016-10-05</startdate>
+		<enddate>2016-10-05</enddate>
+		<starttime>19:00:00</starttime>
+		<endtime>23:00:00</endtime>
+		<color>#dd8080</color>
+    <info><p>For the first of four nights of entertainment this month, Err teams up with Lolo’s Ghost to provide an evening full of great local music.</p>
+
+<p>Courtney Yasmineh:: Familiar, visceral, muscular, fresh, highly energized.
+Lolo’s Ghost:: Moody, dark, soulful and beautiful songs.
+Nathan Walker:: Sounds like John Prine dunking on Galaxie 500 in the NBA Finals.
+Hello Como:: Bluesy folk-rock emerging from a dank Como Park basement.
+The Floating Perspectives:: Indie Power Folk Pop.</p>
+</info>
+		<eventurl>https://www.facebook.com/events/1125409204173114/</eventurl>
+		<address>Harriet Brewing taproom
+3036 Minnehaha Ave, Minneapolis, Minnesota 55406</address>
+
+	</event>
+
+	<event>
+		<name>Err Turns Two: Open Mic</name>
+		<startdate>2016-10-19</startdate>
+		<enddate>2016-10-19</enddate>
+		<starttime>19:30:00</starttime>
+		<endtime>22:30:00</endtime>
+		<color>#d57777</color>
+    <info><p>Err invites YOU to take the stage at our open mic night. Sign up begins at 7:30 p.m., show starts at 8:00 p.m. Featuring a special set by The Peace Life to close the night!</p>
+
+<p>–For more information, visit https://www.facebook.com/events/1838636819703484/permalink/1841997999367366/</p>
+</info>
+		<eventurl>https://www.facebook.com/events/1838636819703484/</eventurl>
+		<address>Fox Egg Gallery
+3730 Chicago Ave, Minneapolis, Minnesota 55407</address>
+
+	</event>
+
+	<event>
+		<name>Err Turns Two: Blowout Bash</name>
+		<startdate>2016-10-26</startdate>
+		<enddate>2016-10-26</enddate>
+		<starttime>19:00:00</starttime>
+		<endtime>23:59:00</endtime>
+		<color>#e47474</color>
+    <info><p>10 writers. 3 bands. 2 live visual artists. 1 epic night at Honey in Minneapolis.</p>
+
+<p>–For more information, visit https://www.facebook.com/events/642462869250977/–<img src="/uploads/14589936_810663799075972_4981810256494734224_o.jpg" alt="14589936_810663799075972_4981810256494734224_o.jpg" /></p>
+</info>
+		<eventurl>https://www.facebook.com/events/642462869250977/</eventurl>
+		<address>honey mpls
+205 E Hennepin Ave, Minneapolis, Minnesota 55414</address>
+
+	</event>
+
+	<event>
+		<name>Breakfast: Phase 2 Release Party!</name>
+		<startdate>2016-10-14</startdate>
+		<enddate>2016-10-14</enddate>
+		<starttime>19:00:00</starttime>
+		<endtime>00:00:00</endtime>
+		<color>#2e41d8</color>
+    <info><p>Sonic Intension is about to drop two new songs as part of their year long “Breakfast” release! It’s time to celebrate with some super rad rockstars at honey mpls!</p>
+
+<p>Friday - 10/14
+7pm
+$5
+21+</p>
+</info>
+		<eventurl>https://www.facebook.com/events/1134085680006040/</eventurl>
+		<address></address>
+
+	</event>
+
+	<event>
+		<name>Turn Back Now: Issue #005 Preview Show</name>
+		<startdate>2016-10-22</startdate>
+		<enddate></enddate>
+		<starttime>20:30:00</starttime>
+		<endtime></endtime>
+		<color></color>
+    <info><p>Hey y’all we just finished inking Issue #005 and we want to celebrate by throwing another multimedia extravaganza! Come on out and check out our baby before she gets colorized!! Bands and artists galore!!!</p>
+
+<p>BANDS:
+Turn Back Now
+Prorenada
+Superheater
+Doc
+SKG</p>
+
+<p>VISUAL ARTISTS:
+Jesse Hedman
+Mona Negasi
+Lucia Vasquez
+Renee Chartier
+Nicole Finley
+Gent</p>
+</info>
+		<eventurl>https://www.facebook.com/events/1627120904247466/</eventurl>
+		<address>Reverie Cafe + Bar</address>
+
+	</event>
+
+	<event>
+		<name>Err XIX</name>
+		<startdate>2016-12-14</startdate>
+		<enddate></enddate>
+		<starttime>19:30:00</starttime>
+		<endtime></endtime>
+		<color>#d77a7a</color>
+    <info><p>Artists TBD</p>
+</info>
+		<eventurl></eventurl>
+		<address></address>
+
+	</event>
+
+	<event>
+		<name>Err XX</name>
+		<startdate>2017-01-11</startdate>
+		<enddate></enddate>
+		<starttime>19:30:00</starttime>
+		<endtime></endtime>
+		<color>#d77a7a</color>
+    <info><p>Artists TBD</p>
+</info>
+		<eventurl></eventurl>
+		<address></address>
+
+	</event>
+
+	<event>
+		<name>Err XXI</name>
+		<startdate>2017-02-22</startdate>
+		<enddate></enddate>
+		<starttime>19:30:00</starttime>
+		<endtime></endtime>
+		<color>#d77a7a</color>
+    <info>
+</info>
+		<eventurl></eventurl>
+		<address></address>
+
+	</event>
+
+	<event>
+		<name>Err XXII</name>
+		<startdate>2017-03-08</startdate>
+		<enddate></enddate>
+		<starttime>19:30:00</starttime>
+		<endtime></endtime>
+		<color>#d77a7a</color>
+    <info>
+</info>
+		<eventurl></eventurl>
+		<address></address>
+
+	</event>
+
+
+</monthly>
