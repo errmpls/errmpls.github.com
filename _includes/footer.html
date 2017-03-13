@@ -1,0 +1,31 @@
+<footer>
+      <div class="container">
+
+              <div class="col-md-2">
+                <img class="img-responsive" src="img/RedErrLogo.png" />
+              </div>
+              <div class="col-md-4">
+                <h3>Err Artist Collective</h3>
+                <p>errmpls@gmail.com</p>
+
+              </div>
+              <div class="col-md-4 pull-right">
+                  <ul class="list-inline social-buttons">
+                      {% for network in site.social %}
+                      <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                      </li>
+                      {% endfor %}
+                  </ul>
+              </div>
+              <div class="col-md-12">
+                  <!-- <ul class="list-inline quicklinks">
+                      <li><a href="#">Privacy Policy</a>
+                      </li>
+                      <li><a href="#">Terms of Use</a>
+                      </li>
+                  </ul> -->
+                    <span class="copyright">Original artwork by <a href="http://www.vatina.net/" target="_blank">Vatina Marie McLaurin</a>, Developed by <a href="http://shelbyhellfire.com/" target="_blank">Shelby Smith</a>, Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+              </div>
+          </div>
+      </div>
+  </footer>
