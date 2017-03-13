@@ -21,6 +21,9 @@ section {
   .container {
     padding: 50px 0;
   }
+  form input {
+    border: 0;
+  }
 
   &.about {
     background: url("/img/AboutPage-Background.jpg") no-repeat center center;
