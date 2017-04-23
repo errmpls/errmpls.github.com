@@ -1,5 +1,5 @@
 ---
-title: 'Err: Volume One'
+title: The Book
 date: 2017-03-09 20:49:00 -06:00
 images:
 - image: "/uploads/err_amazon.jpg"
@@ -16,9 +16,9 @@ images:
   img-alt: inside page 5
 ---
 
-Since our first event in 2014, Err has featured the work of over one hundred Twin Cities artists at our monthly events and accompanying handbound zine, Errata. 
+Since our first event in 2014, Err has featured the work of over one hundred Twin Cities artists at our monthly events and accompanying handbound zine, Errata.
 
-A distillation of every Err event from 2014 - 2016, Err: Volume One brings the artwork, poetry, short stories, lyrics, comedy, and photographs of Err artists together in one full-color, 320-page book.  
+A distillation of every Err event from 2014 - 2016, <em>Err: Volume One</em> brings the artwork, poetry, short stories, lyrics, comedy, and photographs of Err artists together in one full-color, 320-page book.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
