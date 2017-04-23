@@ -1,5 +1,5 @@
 ---
-title: 'Err: Volume One'
+title: The Book
 date: 2017-03-09 20:49:00 -06:00
 images:
 - image: "/uploads/err_amazon.jpg"
