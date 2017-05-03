@@ -216,17 +216,48 @@
 
 
 /* Button to return to month view */
-.monthly-cal,
-.all-events,
-.monthly-reset {
-	position: absolute;
-	top: 15px;
+.monthly {
+	.monthly-cal,
+	.all-events,
+	.monthly-reset {
+		position: absolute;
+		top: -40px;
+		font-family: "albert";
+		color: $white;
+		background-color: $gray-purple;
+		padding: 5px 20px;
+	}
+	.monthly-cal {
+		left: 5%;
+	}
+	.all-events {
+		left: 82%;
+	}
+	.monthly-reset {
+		left: 44%;
+	}
 }
-.monthly-cal {
-	right: 20%;
-}
-.all-events {
-	left: 20%;
+@media screen and (max-width: 599px) {
+	.monthly {
+		margin-top: 70px;
+
+		.monthly-cal,
+		.all-events,
+		.monthly-reset {
+			left: 0;
+			right: 0;
+		}
+		.monthly-cal {
+			top: -35px
+		}
+		.all-events {
+			top: -30px;
+		}
+		.monthly-reset {
+			top: -70px;
+		}
+	}
+
 }
 
 /* Wrapper around events */
