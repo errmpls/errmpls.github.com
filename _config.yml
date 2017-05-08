@@ -60,31 +60,27 @@ defaults:
     - image: ''
       img-alt: ''
 url: http://www.errartistcollective.com/
-baseurl: 
+baseurl:
 email: info@errartistcollective.com
-description: Err is a Twin Cities collective hell-bent on championing emerging artists.
-  We’re about getting down and lifting up. We throw art-filled parties, and make party-filled
-  art. We hold ourselves responsible. We don’t do this alone. Erryone is invited.
-info_intro_large: "Err is a Twin Cities artist \n\ncollective hell-bent on \n\nchampioning
-  emerging artists.\n"
-info_intro_small: |
-  We throw art-filled parties, and make party-filled art.
-
-  We're about getting down and lifting up.
-
-  We hold ourselves responsible.
-
-  We don't do this alone.
-
-  Erryone is invited.
+description: Err is a Twin Cities collective hell-bent on championing emerging artists. We’re about getting down and lifting up. We throw art-filled parties, and make party-filled art. We hold ourselves responsible. We don’t do this alone. Erryone is invited.
+info_intro_large:
+- line: Err is a Twin Cities artist
+- line: collective hell-bent on
+- line: championing emerging artists.
+info_intro_small:
+- line: We throw art-filled parties, and make party-filled art.
+- line: We're about getting down and lifting up.
+- line: We hold ourselves responsible.
+- line: We don't do this alone.
+- line: Erryone is invited.
 headline_about: So what is this Err thing?
-info_about: |
-  Err (rhymes with hair) was born in the summer of 2014 from all-caps Facebook comment threads, idealistic coffee dates, midnight run-ins on the street, and boozy candlelit scheming circles. We were a group of artists with a crystal clear passion, and a hazy idea. We knew that we believed in the art of our friends, and wanted to celebrate what they were creating. We knew that we wanted to make a space where good art met good vibes, and we knew that we wanted to help turn the emerging artist into the up-and-coming artist.
-  Today, we are an expanding, engaged creative community, providing artists space on both page and stage. Our monthly events and handmade zines feature local artists of all mediums.
+info_about:
+- line: Err (rhymes with hair) was born in the summer of 2014 from all-caps Facebook comment threads, idealistic coffee dates, midnight run-ins on the street, and boozy candlelit scheming circles. We were a group of artists with a crystal clear passion, and a hazy idea. We knew that we believed in the art of our friends, and wanted to celebrate what they were creating. We knew that we wanted to make a space where good art met good vibes, and we knew that we wanted to help turn the emerging artist into the up-and-coming artist.
+- line: Today, we are an expanding, engaged creative community, providing artists space on both page and stage. Our monthly events and handmade zines feature local artists of all mediums.
 headline_people: Those held responsible
 headline-artists: Our Artists
 headline_book: The Book
-info_book: 
+info_book:
 headline_calendar: Calendar
 headline_archive: Archive
 info_archive: For more photos of our past events, along with other media, visit our
