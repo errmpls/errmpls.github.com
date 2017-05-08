@@ -53,9 +53,14 @@
     <header>
         <div class="container">
             <div class="intro-text">
-              <h3>{{ site.info_intro_large }}</h3>
+              <h3>
+                {% for lines in site.info_intro_large %}
+                  {{ lines.line }} <br />
+                {% endfor %}</h3>
               <p>
-                {{ site.info_intro_small }}
+                {% for lines in site.info_intro_small %}
+                  {{ lines.line }} <br />
+                {% endfor %}
               </p>
             </div>
         </div>

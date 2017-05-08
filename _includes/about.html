@@ -4,7 +4,14 @@
         <div class="container">
             <div class="col-md-10 col-md-offset-1 about-text">
               <p>
-                {{ site.info_about }}
+                {% for lines in site.info_about %}
+
+
+                  {{ lines.line }} <br /> <br />
+
+
+                {% endfor %}
+
               </p>
             </div>
         </div>
