@@ -1,0 +1,123 @@
+---
+title: Err Artist Collective
+timezone: America/Chicago
+collections:
+  archive:
+    title: Archive
+    output: true
+  artists:
+    title: Artists
+    output: true
+  books:
+    title: Books
+    output: true
+  events:
+    title: Events
+    output: true
+  people:
+    title: People
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: artists
+  values:
+    groups:
+    - group_name: ''
+      group_url: ''
+      members:
+      - member_name: ''
+        member_url: ''
+    individuals:
+    - name: ''
+      url: ''
+- scope:
+    path: ''
+    type: people
+  values:
+    image: ''
+    img-alt: ''
+- scope:
+    path: ''
+    type: events
+  values:
+    starts_at: ''
+    ends_at: ''
+    event_color: ''
+    event_url: ''
+    address: ''
+- scope:
+    path: ''
+    type: books
+  values:
+    images:
+    - image: ''
+      img-alt: ''
+url: http://www.errartistcollective.com/
+baseurl: 
+email: info@errartistcollective.com
+description: Err is a Twin Cities collective hell-bent on championing emerging artists.
+  We’re about getting down and lifting up. We throw art-filled parties, and make party-filled
+  art. We hold ourselves responsible. We don’t do this alone. Erryone is invited.
+info_intro_large: |
+  Err is a Twin Cities artist  <br />
+  collective hell-bent on <br />
+  championing emerging artists.
+info_intro_small: |
+  We throw art-filled parties, and make party-filled art.
+  We're about getting down and lifting up.
+  We hold ourselves responsible.
+  We don't do this alone.
+  Erryone is invited.
+headline_about: So what is this Err thing?
+info_about: |
+  Err (rhymes with hair) was born in the summer of 2014 from all-caps Facebook comment threads, idealistic coffee dates, midnight run-ins on the street, and boozy candlelit scheming circles. We were a group of artists with a crystal clear passion, and a hazy idea. We knew that we believed in the art of our friends, and wanted to celebrate what they were creating. We knew that we wanted to make a space where good art met good vibes, and we knew that we wanted to help turn the emerging artist into the up-and-coming artist.
+  Today, we are an expanding, engaged creative community, providing artists space on both page and stage. Our monthly events and handmade zines feature local artists of all mediums.
+headline_people: Those held responsible
+headline-artists: Our Artists
+headline_book: The Book
+info_book: 
+headline_calendar: Calendar
+headline_archive: Archive
+info_archive: For more photos of our past events, along with other media, visit our
+link_archive: https://archive.org/details/@errmpls&tab=uploads
+headline_contact: Contact
+members:
+- member: Airin Murphy
+- member: Becca Mogck
+- member: Grace Lansing
+- member: Hanna Kjeldbjerg
+- member: Kellie Reichert
+- member: Rachel Mogck
+- member: Shannon Fletcher
+- member: V. S. Ramstack
+former_members:
+- former_member: Michelle Lippman
+- former_member: Libby Borchert
+- former_member: Taylor Hammes
+- former_member: Patrick Erbe
+- former_member: Tim Schumacher
+- former_member: V. S. Ramstack
+social:
+- title: twitter
+  url: https://twitter.com/err_mpls
+- title: facebook
+  url: https://www.facebook.com/ErrMN/
+- title: instagram
+  url: https://www.instagram.com/errmpls/
+- title: tumblr
+  url: http://err-mpls.tumblr.com/
+address:
+- line: 3481 Melrose Place
+- line: Beverly Hills, CA 90210
+markdown: kramdown
+permalink: pretty
+sass:
+  sass_dir: _sass
+  style: compressed
