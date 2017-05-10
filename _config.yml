@@ -60,7 +60,7 @@ defaults:
     - image: ''
       img-alt: ''
 url: http://www.errartistcollective.com/
-baseurl:
+baseurl: 
 email: info@errartistcollective.com
 description: Err is a Twin Cities collective hell-bent on championing emerging artists.
   We’re about getting down and lifting up. We throw art-filled parties, and make party-filled
@@ -90,7 +90,7 @@ info_about:
 headline_people: Those held responsible
 headline_artists: Our Artists
 headline_book: The Book
-info_book:
+info_book: 
 headline_calendar: Calendar
 headline_archive: Archive
 info_archive: For more photos of our past events, along with other media, visit our
