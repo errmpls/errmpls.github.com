@@ -96,9 +96,7 @@ p {
 a {
   color: $dark-red;
 }
-form {
-  padding: 25px;
-}
+
 .col-xs-12 p {
   margin-top: 40px;
 }
@@ -217,6 +215,9 @@ header {
   margin: 0 auto;
 }
 @media(min-width:768px) {
+  .contact form {
+    padding: 25px;
+  }
   header {
     background-size: cover;
 
