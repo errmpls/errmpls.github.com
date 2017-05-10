@@ -84,6 +84,93 @@ section {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  padding-bottom: 0;
+
+  h3 {
+    text-align: center;
+    font-size: 36px;
+}
+p {
+  font-size: 18px;
+}
+a {
+  color: $dark-red;
+}
+form {
+  padding: 25px;
+}
+.col-xs-12 p {
+  margin-top: 40px;
+}
+.form-group {
+  display: block;
+clear: both;
+float: right;
+width: 100%;
+}
+    input[type="text"].form-control,
+    input[type="email"].form-control {
+      height: 50px;
+      line-height: 50px;
+      border-radius: 0;
+      border: 0;
+      font-size: 24px;
+      &:-ms-input-placeholder {
+        color: $black;
+        opacity: 1;
+      }
+      &::-moz-placeholder {
+        color: $black;
+        opacity: 1;
+      }
+      &:-moz-placeholder {
+        color: $black;
+        opacity: 1;
+      }
+      &::-webkit-input-placeholder {
+        color: $black;
+        opacity: 1;
+
+      }
+
+    }
+    input[type="submit"] {
+      width: auto;
+      background: $dark-red;
+      color: $white;
+      border-radius: 0;
+      border: 0;
+      font-size: 20px;
+      padding: 5px 15px;
+      float: right;
+    }
+    input[type="file"] {
+      width: .1px;
+      height: .1px;
+      opacity: 0;
+      overflow: hidden;
+      position: absolute;
+      z-index: -1;
+
+      & + label {
+        cursor: pointer;
+        display: inline-block;
+        overflow: hidden;
+        height: 50px;
+        line-height: 50px;
+        font-size: 24px;
+        background-color: $white;
+        width: 100%;
+        text-align: left;
+        span {
+          float: left;
+          pointer-events: none;
+          margin-top: 5px;
+          margin-left: 15px;
+        }
+      }
+    }
+
   }
   &.archive {
     background-color: $black;
