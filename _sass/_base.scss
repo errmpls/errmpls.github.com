@@ -214,6 +214,22 @@ header {
   display: table;
   margin: 0 auto;
 }
+
+@media(min-width: 768px) and (max-width: 900px) {
+  .navbar .navbar-brand h1 {
+    display: none;
+  }
+}
+@media(min-width: 1015px) {
+  .navbar .nav li a {
+    font-size: 16px;
+  }
+}
+@media(min-width: 1265px) {
+  .navbar .nav li a {
+    font-size: 25px;
+  }
+}
 @media(min-width:768px) {
   .contact form {
     padding: 25px;
