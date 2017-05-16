@@ -1,0 +1,29 @@
+<section id="archive" class="archive">
+  <h2 class="bg-blue">{{ site.headline_archive }}</h2>
+  <div class="container">
+    {% for stuff in site.archive %}
+    <div class="row">
+    <div class="col-md-6">
+      <img src="{{ stuff.first_image }}" class="img-responsive" alt="{{ stuff.first_img-alt }}">
+    </div>
+<div class="col-md-6">
+    <img src="{{ stuff.second_image }}" class="img-responsive" alt="{{ stuff.second_img-alt }}">
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6">
+      <img src="{{ stuff.third_image }}" class="img-responsive" alt="{{ stuff.third_img-alt }}">
+    </div>
+  <div class="col-md-6">
+      <img src="{{ stuff.fourth_image }}" class="img-responsive" alt="{{ stuff.fourth_img-alt }}">
+    </div>
+
+</div>
+<div class="col-md-12">
+<h5> {{ site.info_archive }}&nbsp;<a href="{{ site.link_archive }}" target="_blank">archive</a></h5>
+</div>
+
+    {% endfor %}
+
+  </div>
+</section>

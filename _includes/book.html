@@ -1,0 +1,20 @@
+<section id="book" class="book">
+  <h2 class="bg-blue">{{ site.headline_book }}</h2>
+  <div class="container">
+
+      {% for book in site.books %}
+      <div class="book-slider col-md-4">
+        {% for image in book.images %}
+
+        <div><img src="{{ image.image }}" class="img-responsive" alt="{{ image.img-alt }}"></div>
+        {% endfor %}
+      </div>
+
+  <div class="col-md-6 col-md-offset-1">
+    <h4>{{ book.title }}</h4>
+    {{ book.content }}
+    {% endfor %}
+  </div>
+
+</div>
+</section>

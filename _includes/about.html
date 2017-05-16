@@ -1,0 +1,18 @@
+<!-- About Section -->
+    <section id="about" class="about">
+      <h2 class="bg-red">{{ site.headline_about }}</h2>
+        <div class="container">
+            <div class="col-md-10 col-md-offset-1 about-text">
+              <p>
+                {% for lines in site.info_about %}
+
+
+                  {{ lines.line }} <br /> <br />
+
+
+                {% endfor %}
+
+              </p>
+            </div>
+        </div>
+    </section>
