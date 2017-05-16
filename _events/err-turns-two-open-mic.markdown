@@ -1,6 +1,7 @@
 ---
 title: 'Err Turns Two: Open Mic'
 date: 2016-10-09 15:10:00 -05:00
+position: 2
 starts_at: 2016-10-19 19:30:00 -05:00
 ends_at: 2016-10-19 22:30:00 -05:00
 event_color: "#d57777"

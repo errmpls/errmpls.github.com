@@ -1,6 +1,7 @@
 ---
 title: 'Err Turns Two: Music Night'
 date: 2016-10-09 15:06:00 -05:00
+position: 1
 starts_at: 2016-10-05 19:00:00 -05:00
 ends_at: 2016-10-05 23:00:00 -05:00
 event_color: "#dd8080"

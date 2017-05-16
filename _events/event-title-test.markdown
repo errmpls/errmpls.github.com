@@ -1,6 +1,7 @@
 ---
 title: Err XVIII
 date: 2016-09-16 15:09:00 -05:00
+position: 4
 starts_at: 2016-09-21 19:30:00 -05:00
 ends_at: 2016-09-21 22:30:00 -05:00
 event_color: "#f07490"

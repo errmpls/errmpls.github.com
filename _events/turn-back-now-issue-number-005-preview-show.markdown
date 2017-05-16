@@ -1,6 +1,7 @@
 ---
 title: 'Turn Back Now: Issue #005 Preview Show'
 date: 2016-10-14 09:19:00 -05:00
+position: 10
 starts_at: 2016-10-22 20:30:00 -05:00
 event_url: https://www.facebook.com/events/1627120904247466/
 address: Reverie Cafe + Bar

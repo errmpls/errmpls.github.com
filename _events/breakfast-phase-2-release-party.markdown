@@ -1,6 +1,7 @@
 ---
 title: 'Breakfast: Phase 2 Release Party!'
 date: 2016-10-11 23:49:00 -05:00
+position: 9
 starts_at: 2016-10-14 19:00:00 -05:00
 ends_at: 2016-10-14 00:00:00 -05:00
 event_color: "#2e41d8"

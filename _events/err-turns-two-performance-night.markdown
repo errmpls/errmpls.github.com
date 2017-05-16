@@ -1,6 +1,7 @@
 ---
 title: 'Err Turns Two: Performance Night'
 date: 2016-10-09 15:01:00 -05:00
+position: 0
 starts_at: 2016-10-12 19:00:00 -05:00
 ends_at: 2016-10-12 23:00:00 -05:00
 event_color: "#d77a7a"

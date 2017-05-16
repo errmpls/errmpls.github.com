@@ -1,6 +1,7 @@
 ---
 title: 'Err Turns Two: Blowout Bash'
 date: 2016-10-09 15:12:00 -05:00
+position: 3
 starts_at: 2016-10-26 19:00:00 -05:00
 ends_at: 2016-10-26 23:59:00 -05:00
 event_color: "#e47474"
