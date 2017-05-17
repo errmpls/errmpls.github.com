@@ -1,6 +1,6 @@
 ---
 title: 'Err Turns Two: Blowout Bash'
-position: 0
+position: 2
 individuals:
 - name: King October
   url: 

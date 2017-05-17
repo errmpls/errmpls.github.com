@@ -1,6 +1,6 @@
 ---
 title: Err XVIII, September 2016
-position: 4
+position: 6
 individuals:
 - name: Dunstan Pinlac
   url: 

@@ -1,6 +1,6 @@
 ---
 title: Err X, July 2015
-position: 17
+position: 19
 individuals:
 - name: Kerry Jade Aberman
   url: 

@@ -1,6 +1,6 @@
 ---
 title: Err II, November 2014
-position: 25
+position: 27
 individuals:
 - name: S. Fletcher
   url: 

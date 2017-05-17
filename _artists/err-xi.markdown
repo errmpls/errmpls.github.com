@@ -1,6 +1,6 @@
 ---
 title: Err XI, August 2015
-position: 16
+position: 18
 groups:
 - group_name: "“Drawn Together” "
   members:

@@ -1,6 +1,6 @@
 ---
 title: Those Held Responsible, October 2015
-position: 14
+position: 16
 individuals:
 - name: Grace Lansing
   url: 
