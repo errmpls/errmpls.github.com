@@ -1,6 +1,6 @@
 ---
 title: 'Err Turns Two: Performance Night'
-position: 6
+position: 9
 individuals:
 - name: Eric Larson
   url: 

@@ -1,6 +1,6 @@
 ---
 title: Err XIII, February 2016
-position: 16
+position: 19
 groups:
 - group_name: DIE WEIRE ROSE
   group_url: 

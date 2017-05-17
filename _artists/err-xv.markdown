@@ -1,6 +1,6 @@
 ---
 title: Err XV, April 2016
-position: 13
+position: 16
 individuals:
 - name: Grace Jordan
   url: https://pentupthink.wordpress.com/

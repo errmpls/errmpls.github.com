@@ -1,7 +1,7 @@
 ---
 title: 'Err: Volume One Book Launch Party'
 date: 2017-05-17 12:52:00 -05:00
-position: 0
+position: 3
 groups:
 - group_name: Judy Gloom
   group_url: https://soundcloud.com/judygloommpls

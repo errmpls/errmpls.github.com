@@ -1,6 +1,6 @@
 ---
 title: Err XVI, May 2016
-position: 12
+position: 15
 groups:
 - group_name: Judy Gloom
   group_url: https://soundcloud.com/judygloommpls

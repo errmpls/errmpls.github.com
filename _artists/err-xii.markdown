@@ -1,6 +1,6 @@
 ---
 title: Err XII, December 2015
-position: 17
+position: 20
 individuals:
 - name: Aaron Levy
   url: 
