@@ -6,4 +6,4 @@ image: "/uploads/Photo-1-Hanna.png"
 img-alt: Hanna Kjeldbjerg
 ---
 
-Eye of the Err // Hanna Kjeldbjerg was struck by idea lightning and—praise be for the type of friends who manifest—Err was born. She is a poet, an editor at Beaver’s Pond Press, and feels constantly victimized by Mercury Retrograde.
+Eye of the Err // Hanna Kjeldbjerg was struck by idea lightning on a Fourth of July trip to Duluth and—praise be for the type of friends who manifest—Err was born. She’s an editor at Beaver’s Pond Press, an independent publisher in Minnesota, and has an emotional attachment to the em dash. She believes that horizontal community building will always get you further than ladder climbing, and that the best art changes perspectives.
