@@ -1,7 +1,7 @@
 ---
 title: Those Held Responsible, August 2016
 date: 2016-10-14 09:23:00 -05:00
-position: 5
+position: 9
 individuals:
 - name: The Gentlemen's Anti-Temperance League
   url: http://www.thegatl.com/

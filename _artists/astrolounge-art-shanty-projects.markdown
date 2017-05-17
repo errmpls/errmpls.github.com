@@ -1,6 +1,6 @@
 ---
 title: AstroLounge, February 2016 (Art Shanty Projects)
-position: 11
+position: 15
 individuals:
 - name: Rachel Mogck
   url: 
