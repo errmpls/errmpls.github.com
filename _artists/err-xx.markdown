@@ -1,5 +1,5 @@
 ---
-title: Err XX
+title: Err XX, January 2017
 date: 2017-05-17 12:38:00 -05:00
 groups:
 - group_name: Jackson and the Roosters
