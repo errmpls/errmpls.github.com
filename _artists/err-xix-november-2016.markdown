@@ -1,7 +1,7 @@
 ---
 title: Err XIX, November 2016
 date: 2017-04-30 16:08:00 -05:00
-position: 1
+position: 3
 groups:
 - group_name: Off-10 Publications
   group_url: 

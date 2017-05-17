@@ -1,6 +1,6 @@
 ---
 title: Err VI, March 2015
-position: 23
+position: 25
 individuals:
 - name: Kat Klima
   url: 
