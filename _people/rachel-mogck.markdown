@@ -6,4 +6,4 @@ image: "/uploads/Photo-5-Rachel.png"
 img-alt: Rachel Mogck
 ---
 
-Media Mage // Rachel Mogck is an aspiring sound designer, preferably for one of the video games she already spends too much time with. One of her life goals is to meet Isaac Brock and tell him she loves him and that he changed her life. She is a Pisces who believes in magic and will probably ask you what your sign is faster than you are comfortable with.
+Media Mage // Rachel Mogck is an aspiring sound designer. One of her life goals is to meet Isaac Brock and tell him she loves him and that he changed her life. She is a Pisces who believes in magic and will probably ask you what your sign is faster than you are comfortable with.
