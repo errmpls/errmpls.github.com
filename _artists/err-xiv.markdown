@@ -1,6 +1,6 @@
 ---
 title: Err XIV, March 2016
-position: 14
+position: 17
 groups:
 - group_name: Sister Calypso
   group_url: http://sister-calypso.bandcamp.com/

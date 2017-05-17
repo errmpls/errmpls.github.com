@@ -1,7 +1,7 @@
 ---
 title: Err XXI, February 2017
 date: 2017-05-17 12:46:00 -05:00
-position: 1
+position: 4
 groups:
 - group_name: Cold Pillow
   group_url: https://coldpillowmnmusic.bandcamp.com/
