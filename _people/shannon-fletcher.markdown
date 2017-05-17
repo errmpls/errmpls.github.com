@@ -6,4 +6,4 @@ image: "/uploads/Photo-3-Shannon-b9143e.png"
 img-alt: Shannon Fletcher
 ---
 
-When she’s not working as a shadowy corporate ghostwriter, Shannon Fletcher likes to drink gin, pet dogs, and write poems for the moon. She is getting pretty good at making up words, orienteering, and winged eyeliner. 
+Brand Witch // Shannon Fletcher’s fingerprints are literally all over this book. As are a few of her feline roommates’ hairs.  She’s a left-handed leftist, a poet, and a copywriter living and working in Minneapolis.  She’s a sinner; she’s a saint; she’s a Scorpio.  She smells like vetiver, hot sauce, and makeup setting spray.
