@@ -6,4 +6,4 @@ image: "/uploads/Photo-6-Becca.png"
 img-alt: Becca Mogck
 ---
 
-If Becca Mogck’s face is not the first you see at an Err event, you’re in the wrong place. She can’t speak any other languages, but is a linguist. Her Disney princess is Mushu.
+Merch Goddess // Becca Mogck is a future educator and current linguistic badass pursuing a bachelor's degree at the University of Minnesota. She enjoys coffee in every form and spends her spare time lifting her friends up while still keeping them grounded.

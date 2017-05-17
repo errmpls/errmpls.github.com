@@ -6,4 +6,4 @@ image: "/uploads/Photo-5-Rachel.png"
 img-alt: Rachel Mogck
 ---
 
-Rachel Mogck escapes using TV shows, RPGs, the same 3 albums over and over again, and magic. She will probably ask you what sign you are too quickly for your comfort. She can't decide if she's a fresh water nymph or siren.
+Media Mage // Rachel Mogck is an aspiring sound designer, preferably for the TV shows or video games she already spends too much of her time with. One of her life goals is to meet Isaac Brock and tell him she loves him and that he changed her life. She is a Pisces who believes in magic and will probably ask you what your sign is faster than you are comfortable with.
