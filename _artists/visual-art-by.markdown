@@ -44,5 +44,13 @@ individuals:
   url: 
 - name: Ciara Newton
   url: 
+- name: Erika Mathison
+  url: 
+- name: Steph Guidera
+  url: https://www.facebook.com/stephguideraart/
+- name: John Scarr
+  url: 
+- name: Louie Darang
+  url: 
 ---
 
